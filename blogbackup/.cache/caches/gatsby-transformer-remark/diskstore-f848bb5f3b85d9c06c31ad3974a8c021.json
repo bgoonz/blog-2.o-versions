@@ -1,0 +1,4016 @@
+{
+  "expireTime": 9007200882027786000,
+  "key": "transformer-remark-markdown-ast-64b4a363ad3c996ef9e133a119b569ad--",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "# Web-Development-Resources-Part-3",
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 37, "offset": 37 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 39, "offset": 39 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 2, "column": 39, "offset": 39 },
+              "end": { "line": 3, "column": 1, "offset": 40 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "# Web Development Resources Part 3",
+                "position": {
+                  "start": { "line": 3, "column": 3, "offset": 42 },
+                  "end": { "line": 3, "column": 37, "offset": 76 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 40 },
+              "end": { "line": 3, "column": 39, "offset": 78 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\nI'm the psychological equivalent of a physical hoarder only instead of empty soda cans and dead racoons it's lists of links and resources.\n",
+            "position": {
+              "start": { "line": 3, "column": 39, "offset": 78 },
+              "end": { "line": 5, "column": 1, "offset": 218 },
+              "indent": [1, 1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 218 },
+              "end": { "line": 5, "column": 3, "offset": 220 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "--\n",
+            "position": {
+              "start": { "line": 5, "column": 3, "offset": 220 },
+              "end": { "line": 6, "column": 1, "offset": 223 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Web Development Resources Part 3",
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 225 },
+                  "end": { "line": 6, "column": 39, "offset": 261 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 223 },
+              "end": { "line": 6, "column": 41, "offset": 263 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\nI'm the psychological equivalent of a physical hoarder only instead of empty soda cans and dead racoons it's lists of links and resources.\n",
+            "position": {
+              "start": { "line": 6, "column": 41, "offset": 263 },
+              "end": { "line": 8, "column": 1, "offset": 403 },
+              "indent": [1, 1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Here's parts one and two:",
+                "position": {
+                  "start": { "line": 8, "column": 3, "offset": 405 },
+                  "end": { "line": 8, "column": 32, "offset": 434 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 8, "column": 1, "offset": 403 },
+              "end": { "line": 8, "column": 34, "offset": 436 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 8, "column": 34, "offset": 436 },
+              "end": { "line": 9, "column": 1, "offset": 437 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 1, "offset": 437 },
+              "end": { "line": 9, "column": 3, "offset": 439 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 3, "offset": 439 },
+              "end": { "line": 9, "column": 5, "offset": 441 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 9, "column": 5, "offset": 441 },
+              "end": { "line": 9, "column": 7, "offset": 443 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "My ‘awesome' list of JavaScript resources",
+            "position": {
+              "start": { "line": 9, "column": 7, "offset": 443 },
+              "end": { "line": 9, "column": 48, "offset": 484 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 48, "offset": 484 },
+              "end": { "line": 9, "column": 50, "offset": 486 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 50, "offset": 486 },
+              "end": { "line": 9, "column": 52, "offset": 488 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 52, "offset": 488 },
+              "end": { "line": 9, "column": 54, "offset": 490 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Everyone's seen the ‘Awesome' lists on GitHub… and they are indeed awesome… so today I am going to attempt to curate my…",
+            "position": {
+              "start": { "line": 9, "column": 54, "offset": 490 },
+              "end": { "line": 9, "column": 174, "offset": 610 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 174, "offset": 610 },
+              "end": { "line": 9, "column": 176, "offset": 612 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "javascript.plainenglish.io]",
+            "position": {
+              "start": { "line": 9, "column": 176, "offset": 612 },
+              "end": { "line": 9, "column": 203, "offset": 639 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 9, "column": 203, "offset": 639 },
+              "end": { "line": 9, "column": 205, "offset": 641 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://javascript.plainenglish.io/my-take-on-awesome-javascript-243255451e74",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://javascript.plainenglish.io/my-take-on-awesome-javascript-243255451e74",
+                "position": {
+                  "start": { "line": 9, "column": 205, "offset": 641 },
+                  "end": { "line": 9, "column": 282, "offset": 718 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 9, "column": 205, "offset": 641 },
+              "end": { "line": 9, "column": 282, "offset": 718 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 9, "column": 282, "offset": 718 },
+              "end": { "line": 10, "column": 1, "offset": 720 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 10, "column": 1, "offset": 720 },
+              "end": { "line": 10, "column": 3, "offset": 722 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 10, "column": 3, "offset": 722 },
+              "end": { "line": 10, "column": 5, "offset": 724 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 10, "column": 5, "offset": 724 },
+              "end": { "line": 10, "column": 7, "offset": 726 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Web Developer Resource List Part 2",
+            "position": {
+              "start": { "line": 10, "column": 7, "offset": 726 },
+              "end": { "line": 10, "column": 41, "offset": 760 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 10, "column": 41, "offset": 760 },
+              "end": { "line": 10, "column": 43, "offset": 762 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 10, "column": 43, "offset": 762 },
+              "end": { "line": 10, "column": 45, "offset": 764 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 10, "column": 45, "offset": 764 },
+              "end": { "line": 10, "column": 47, "offset": 766 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Because I compile these things compulsively anyway…",
+            "position": {
+              "start": { "line": 10, "column": 47, "offset": 766 },
+              "end": { "line": 10, "column": 98, "offset": 817 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 10, "column": 98, "offset": 817 },
+              "end": { "line": 10, "column": 100, "offset": 819 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "medium.com]",
+            "position": {
+              "start": { "line": 10, "column": 100, "offset": 819 },
+              "end": { "line": 10, "column": 111, "offset": 830 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 10, "column": 111, "offset": 830 },
+              "end": { "line": 10, "column": 113, "offset": 832 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://medium.com/star-gazers/web-developer-resource-list-part-2-9c5cb56ab263",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://medium.com/star-gazers/web-developer-resource-list-part-2-9c5cb56ab263",
+                "position": {
+                  "start": { "line": 10, "column": 113, "offset": 832 },
+                  "end": { "line": 10, "column": 191, "offset": 910 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 10, "column": 113, "offset": 832 },
+              "end": { "line": 10, "column": 191, "offset": 910 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 10, "column": 191, "offset": 910 },
+              "end": { "line": 11, "column": 1, "offset": 912 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 11, "column": 1, "offset": 912 },
+              "end": { "line": 11, "column": 3, "offset": 914 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "--\n!",
+            "position": {
+              "start": { "line": 11, "column": 3, "offset": 914 },
+              "end": { "line": 12, "column": 2, "offset": 918 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 12, "column": 2, "offset": 918 },
+              "end": { "line": 12, "column": 4, "offset": 920 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://cdn-images-1.medium.com/max/600/0\\*7Taf8gWWh5YjoM-s.png",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://cdn-images-1.medium.com/max/600/0\\*7Taf8gWWh5YjoM-s.png",
+                "position": {
+                  "start": { "line": 12, "column": 4, "offset": 920 },
+                  "end": { "line": 12, "column": 67, "offset": 983 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 12, "column": 4, "offset": 920 },
+              "end": { "line": 12, "column": 67, "offset": 983 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 12, "column": 67, "offset": 983 },
+              "end": { "line": 12, "column": 68, "offset": 984 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 12, "column": 68, "offset": 984 },
+              "end": { "line": 12, "column": 70, "offset": 986 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://cdn-images-1.medium.com/max/600/0\\*7Taf8gWWh5YjoM-s.png",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://cdn-images-1.medium.com/max/600/0\\*7Taf8gWWh5YjoM-s.png",
+                "position": {
+                  "start": { "line": 12, "column": 70, "offset": 986 },
+                  "end": { "line": 12, "column": 133, "offset": 1049 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 12, "column": 70, "offset": 986 },
+              "end": { "line": 12, "column": 133, "offset": 1049 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 12, "column": 133, "offset": 1049 },
+              "end": { "line": 13, "column": 1, "offset": 1051 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Performance",
+                "position": {
+                  "start": { "line": 13, "column": 3, "offset": 1053 },
+                  "end": { "line": 13, "column": 18, "offset": 1068 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 13, "column": 1, "offset": 1051 },
+              "end": { "line": 13, "column": 20, "offset": 1070 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 13, "column": 20, "offset": 1070 },
+              "end": { "line": 14, "column": 1, "offset": 1071 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 14, "column": 1, "offset": 1071 },
+              "end": { "line": 14, "column": 3, "offset": 1073 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 14, "column": 3, "offset": 1073 },
+              "end": { "line": 14, "column": 4, "offset": 1074 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 4, "offset": 1074 },
+              "end": { "line": 14, "column": 6, "offset": 1076 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/performance/webpack/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/performance/webpack/",
+                "position": {
+                  "start": { "line": 14, "column": 6, "offset": 1076 },
+                  "end": { "line": 14, "column": 73, "offset": 1143 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 6, "offset": 1076 },
+              "end": { "line": 14, "column": 73, "offset": 1143 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 73, "offset": 1143 },
+              "end": { "line": 14, "column": 74, "offset": 1144 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 74, "offset": 1144 },
+              "end": { "line": 14, "column": 76, "offset": 1146 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/performance/webpack/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/performance/webpack/",
+                "position": {
+                  "start": { "line": 14, "column": 76, "offset": 1146 },
+                  "end": { "line": 14, "column": 143, "offset": 1213 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 76, "offset": 1146 },
+              "end": { "line": 14, "column": 143, "offset": 1213 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 143, "offset": 1213 },
+              "end": { "line": 14, "column": 146, "offset": 1216 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 146, "offset": 1216 },
+              "end": { "line": 14, "column": 148, "offset": 1218 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://iamakulov.com/notes/resize-scroll/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://iamakulov.com/notes/resize-scroll/",
+                "position": {
+                  "start": { "line": 14, "column": 148, "offset": 1218 },
+                  "end": { "line": 14, "column": 190, "offset": 1260 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 148, "offset": 1218 },
+              "end": { "line": 14, "column": 190, "offset": 1260 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 190, "offset": 1260 },
+              "end": { "line": 14, "column": 191, "offset": 1261 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 191, "offset": 1261 },
+              "end": { "line": 14, "column": 193, "offset": 1263 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://iamakulov.com/notes/resize-scroll/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://iamakulov.com/notes/resize-scroll/",
+                "position": {
+                  "start": { "line": 14, "column": 193, "offset": 1263 },
+                  "end": { "line": 14, "column": 235, "offset": 1305 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 193, "offset": 1263 },
+              "end": { "line": 14, "column": 235, "offset": 1305 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 235, "offset": 1305 },
+              "end": { "line": 14, "column": 238, "offset": 1308 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 238, "offset": 1308 },
+              "end": { "line": 14, "column": 240, "offset": 1310 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://iamakulov.com/notes/optimize-images-webpack/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://iamakulov.com/notes/optimize-images-webpack/",
+                "position": {
+                  "start": { "line": 14, "column": 240, "offset": 1310 },
+                  "end": { "line": 14, "column": 292, "offset": 1362 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 240, "offset": 1310 },
+              "end": { "line": 14, "column": 292, "offset": 1362 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 292, "offset": 1362 },
+              "end": { "line": 14, "column": 293, "offset": 1363 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 293, "offset": 1363 },
+              "end": { "line": 14, "column": 295, "offset": 1365 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://iamakulov.com/notes/optimize-images-webpack/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://iamakulov.com/notes/optimize-images-webpack/",
+                "position": {
+                  "start": { "line": 14, "column": 295, "offset": 1365 },
+                  "end": { "line": 14, "column": 347, "offset": 1417 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 295, "offset": 1365 },
+              "end": { "line": 14, "column": 347, "offset": 1417 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 347, "offset": 1417 },
+              "end": { "line": 14, "column": 350, "offset": 1420 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 350, "offset": 1420 },
+              "end": { "line": 14, "column": 352, "offset": 1422 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size",
+                "position": {
+                  "start": { "line": 14, "column": 352, "offset": 1422 },
+                  "end": { "line": 14, "column": 441, "offset": 1511 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 352, "offset": 1422 },
+              "end": { "line": 14, "column": 441, "offset": 1511 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 441, "offset": 1511 },
+              "end": { "line": 14, "column": 442, "offset": 1512 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 442, "offset": 1512 },
+              "end": { "line": 14, "column": 444, "offset": 1514 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size",
+                "position": {
+                  "start": { "line": 14, "column": 444, "offset": 1514 },
+                  "end": { "line": 14, "column": 533, "offset": 1603 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 444, "offset": 1514 },
+              "end": { "line": 14, "column": 533, "offset": 1603 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 533, "offset": 1603 },
+              "end": { "line": 14, "column": 536, "offset": 1606 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 536, "offset": 1606 },
+              "end": { "line": 14, "column": 538, "offset": 1608 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://code.facebook.com/posts/557147474482256",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://code.facebook.com/posts/557147474482256",
+                "position": {
+                  "start": { "line": 14, "column": 538, "offset": 1608 },
+                  "end": { "line": 14, "column": 585, "offset": 1655 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 538, "offset": 1608 },
+              "end": { "line": 14, "column": 585, "offset": 1655 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 585, "offset": 1655 },
+              "end": { "line": 14, "column": 586, "offset": 1656 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 586, "offset": 1656 },
+              "end": { "line": 14, "column": 588, "offset": 1658 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://code.facebook.com/posts/557147474482256",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://code.facebook.com/posts/557147474482256",
+                "position": {
+                  "start": { "line": 14, "column": 588, "offset": 1658 },
+                  "end": { "line": 14, "column": 635, "offset": 1705 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 588, "offset": 1658 },
+              "end": { "line": 14, "column": 635, "offset": 1705 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 635, "offset": 1705 },
+              "end": { "line": 14, "column": 638, "offset": 1708 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 638, "offset": 1708 },
+              "end": { "line": 14, "column": 640, "offset": 1710 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "www.phpied.com/rendering-repaint-reflowrelayout-restyle]",
+            "position": {
+              "start": { "line": 14, "column": 640, "offset": 1710 },
+              "end": { "line": 14, "column": 696, "offset": 1766 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 696, "offset": 1766 },
+              "end": { "line": 14, "column": 698, "offset": 1768 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.phpied.com/rendering-repaint-reflowrelayout-restyle",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.phpied.com/rendering-repaint-reflowrelayout-restyle",
+                "position": {
+                  "start": { "line": 14, "column": 698, "offset": 1768 },
+                  "end": { "line": 14, "column": 760, "offset": 1830 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 698, "offset": 1768 },
+              "end": { "line": 14, "column": 760, "offset": 1830 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 760, "offset": 1830 },
+              "end": { "line": 14, "column": 763, "offset": 1833 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 763, "offset": 1833 },
+              "end": { "line": 14, "column": 765, "offset": 1835 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/",
+                "position": {
+                  "start": { "line": 14, "column": 765, "offset": 1835 },
+                  "end": { "line": 14, "column": 833, "offset": 1903 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 765, "offset": 1835 },
+              "end": { "line": 14, "column": 833, "offset": 1903 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 833, "offset": 1903 },
+              "end": { "line": 14, "column": 834, "offset": 1904 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 834, "offset": 1904 },
+              "end": { "line": 14, "column": 836, "offset": 1906 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/",
+                "position": {
+                  "start": { "line": 14, "column": 836, "offset": 1906 },
+                  "end": { "line": 14, "column": 904, "offset": 1974 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 836, "offset": 1906 },
+              "end": { "line": 14, "column": 904, "offset": 1974 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 14, "column": 904, "offset": 1974 },
+              "end": { "line": 14, "column": 907, "offset": 1977 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 14, "column": 907, "offset": 1977 },
+              "end": { "line": 14, "column": 909, "offset": 1979 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/",
+                "position": {
+                  "start": { "line": 14, "column": 909, "offset": 1979 },
+                  "end": { "line": 14, "column": 1007, "offset": 2077 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 909, "offset": 1979 },
+              "end": { "line": 14, "column": 1007, "offset": 2077 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 14, "column": 1007, "offset": 2077 },
+              "end": { "line": 14, "column": 1008, "offset": 2078 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 14, "column": 1008, "offset": 2078 },
+              "end": { "line": 14, "column": 1010, "offset": 2080 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/",
+                "position": {
+                  "start": { "line": 14, "column": 1010, "offset": 2080 },
+                  "end": { "line": 14, "column": 1108, "offset": 2178 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 1010, "offset": 2080 },
+              "end": { "line": 14, "column": 1108, "offset": 2178 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n!",
+            "position": {
+              "start": { "line": 14, "column": 1108, "offset": 2178 },
+              "end": { "line": 15, "column": 2, "offset": 2181 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 15, "column": 2, "offset": 2181 },
+              "end": { "line": 15, "column": 4, "offset": 2183 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://cdn-images-1.medium.com/max/800/0\\*-D07MORsmwK-pHOZ.jpg",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://cdn-images-1.medium.com/max/800/0\\*-D07MORsmwK-pHOZ.jpg",
+                "position": {
+                  "start": { "line": 15, "column": 4, "offset": 2183 },
+                  "end": { "line": 15, "column": 67, "offset": 2246 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 4, "offset": 2183 },
+              "end": { "line": 15, "column": 67, "offset": 2246 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 15, "column": 67, "offset": 2246 },
+              "end": { "line": 15, "column": 68, "offset": 2247 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 15, "column": 68, "offset": 2247 },
+              "end": { "line": 15, "column": 70, "offset": 2249 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://cdn-images-1.medium.com/max/800/0\\*-D07MORsmwK-pHOZ.jpg",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://cdn-images-1.medium.com/max/800/0\\*-D07MORsmwK-pHOZ.jpg",
+                "position": {
+                  "start": { "line": 15, "column": 70, "offset": 2249 },
+                  "end": { "line": 15, "column": 133, "offset": 2312 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 70, "offset": 2249 },
+              "end": { "line": 15, "column": 133, "offset": 2312 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 15, "column": 133, "offset": 2312 },
+              "end": { "line": 16, "column": 1, "offset": 2314 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Case studies",
+                "position": {
+                  "start": { "line": 16, "column": 3, "offset": 2316 },
+                  "end": { "line": 16, "column": 19, "offset": 2332 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 16, "column": 1, "offset": 2314 },
+              "end": { "line": 16, "column": 21, "offset": 2334 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 16, "column": 21, "offset": 2334 },
+              "end": { "line": 17, "column": 1, "offset": 2335 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 17, "column": 1, "offset": 2335 },
+              "end": { "line": 17, "column": 3, "offset": 2337 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 17, "column": 3, "offset": 2337 },
+              "end": { "line": 17, "column": 4, "offset": 2338 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 17, "column": 4, "offset": 2338 },
+              "end": { "line": 17, "column": 6, "offset": 2340 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/andrew--r/frontend-case-studies",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/andrew--r/frontend-case-studies",
+                "position": {
+                  "start": { "line": 17, "column": 6, "offset": 2340 },
+                  "end": { "line": 17, "column": 56, "offset": 2390 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 17, "column": 6, "offset": 2340 },
+              "end": { "line": 17, "column": 56, "offset": 2390 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 17, "column": 56, "offset": 2390 },
+              "end": { "line": 17, "column": 57, "offset": 2391 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 17, "column": 57, "offset": 2391 },
+              "end": { "line": 17, "column": 59, "offset": 2393 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/andrew--r/frontend-case-studies",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/andrew--r/frontend-case-studies",
+                "position": {
+                  "start": { "line": 17, "column": 59, "offset": 2393 },
+                  "end": { "line": 17, "column": 109, "offset": 2443 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 17, "column": 59, "offset": 2393 },
+              "end": { "line": 17, "column": 109, "offset": 2443 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 17, "column": 109, "offset": 2443 },
+              "end": { "line": 17, "column": 112, "offset": 2446 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 17, "column": 112, "offset": 2446 },
+              "end": { "line": 17, "column": 114, "offset": 2448 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://iamakulov.com/notes/walmart/",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://iamakulov.com/notes/walmart/",
+                "position": {
+                  "start": { "line": 17, "column": 114, "offset": 2448 },
+                  "end": { "line": 17, "column": 149, "offset": 2483 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 17, "column": 114, "offset": 2448 },
+              "end": { "line": 17, "column": 149, "offset": 2483 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 17, "column": 149, "offset": 2483 },
+              "end": { "line": 17, "column": 150, "offset": 2484 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 17, "column": 150, "offset": 2484 },
+              "end": { "line": 17, "column": 152, "offset": 2486 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://iamakulov.com/notes/walmart/",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://iamakulov.com/notes/walmart/",
+                "position": {
+                  "start": { "line": 17, "column": 152, "offset": 2486 },
+                  "end": { "line": 17, "column": 187, "offset": 2521 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 17, "column": 152, "offset": 2486 },
+              "end": { "line": 17, "column": 187, "offset": 2521 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 17, "column": 187, "offset": 2521 },
+              "end": { "line": 18, "column": 1, "offset": 2523 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Interviews",
+                "position": {
+                  "start": { "line": 18, "column": 3, "offset": 2525 },
+                  "end": { "line": 18, "column": 17, "offset": 2539 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 18, "column": 1, "offset": 2523 },
+              "end": { "line": 18, "column": 19, "offset": 2541 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 18, "column": 19, "offset": 2541 },
+              "end": { "line": 19, "column": 1, "offset": 2542 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 19, "column": 1, "offset": 2542 },
+              "end": { "line": 19, "column": 3, "offset": 2544 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 19, "column": 3, "offset": 2544 },
+              "end": { "line": 19, "column": 4, "offset": 2545 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 4, "offset": 2545 },
+              "end": { "line": 19, "column": 6, "offset": 2547 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer)",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer)",
+                "position": {
+                  "start": { "line": 19, "column": 6, "offset": 2547 },
+                  "end": { "line": 19, "column": 126, "offset": 2667 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 6, "offset": 2547 },
+              "end": { "line": 19, "column": 126, "offset": 2667 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 126, "offset": 2667 },
+              "end": { "line": 19, "column": 127, "offset": 2668 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 127, "offset": 2668 },
+              "end": { "line": 19, "column": 129, "offset": 2670 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28Written-by-a-Frontend-Engineer%29",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28Written-by-a-Frontend-Engineer%29",
+                "position": {
+                  "start": { "line": 19, "column": 129, "offset": 2670 },
+                  "end": { "line": 19, "column": 253, "offset": 2794 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 129, "offset": 2670 },
+              "end": { "line": 19, "column": 253, "offset": 2794 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 253, "offset": 2794 },
+              "end": { "line": 19, "column": 256, "offset": 2797 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 256, "offset": 2797 },
+              "end": { "line": 19, "column": 258, "offset": 2799 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question",
+                "position": {
+                  "start": { "line": 19, "column": 258, "offset": 2799 },
+                  "end": { "line": 19, "column": 333, "offset": 2874 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 258, "offset": 2799 },
+              "end": { "line": 19, "column": 333, "offset": 2874 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 333, "offset": 2874 },
+              "end": { "line": 19, "column": 334, "offset": 2875 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 334, "offset": 2875 },
+              "end": { "line": 19, "column": 336, "offset": 2877 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question",
+                "position": {
+                  "start": { "line": 19, "column": 336, "offset": 2877 },
+                  "end": { "line": 19, "column": 411, "offset": 2952 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 336, "offset": 2877 },
+              "end": { "line": 19, "column": 411, "offset": 2952 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 411, "offset": 2952 },
+              "end": { "line": 19, "column": 414, "offset": 2955 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 414, "offset": 2955 },
+              "end": { "line": 19, "column": 416, "offset": 2957 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/yangshun/tech-interview-handbook",
+                "position": {
+                  "start": { "line": 19, "column": 416, "offset": 2957 },
+                  "end": { "line": 19, "column": 467, "offset": 3008 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 416, "offset": 2957 },
+              "end": { "line": 19, "column": 467, "offset": 3008 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 467, "offset": 3008 },
+              "end": { "line": 19, "column": 468, "offset": 3009 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 468, "offset": 3009 },
+              "end": { "line": 19, "column": 470, "offset": 3011 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/yangshun/tech-interview-handbook",
+                "position": {
+                  "start": { "line": 19, "column": 470, "offset": 3011 },
+                  "end": { "line": 19, "column": 521, "offset": 3062 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 470, "offset": 3011 },
+              "end": { "line": 19, "column": 521, "offset": 3062 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 521, "offset": 3062 },
+              "end": { "line": 19, "column": 524, "offset": 3065 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 524, "offset": 3065 },
+              "end": { "line": 19, "column": 526, "offset": 3067 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/IgnaciodeNuevo/frontend-development-interviews#questions-to-know-the-company-better",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/IgnaciodeNuevo/frontend-development-interviews#questions-to-know-the-company-better",
+                "position": {
+                  "start": { "line": 19, "column": 526, "offset": 3067 },
+                  "end": { "line": 19, "column": 628, "offset": 3169 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 526, "offset": 3067 },
+              "end": { "line": 19, "column": 628, "offset": 3169 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 628, "offset": 3169 },
+              "end": { "line": 19, "column": 629, "offset": 3170 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 629, "offset": 3170 },
+              "end": { "line": 19, "column": 631, "offset": 3172 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/IgnaciodeNuevo/frontend-development-interviews#questions-to-know-the-company-better",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/IgnaciodeNuevo/frontend-development-interviews#questions-to-know-the-company-better",
+                "position": {
+                  "start": { "line": 19, "column": 631, "offset": 3172 },
+                  "end": { "line": 19, "column": 733, "offset": 3274 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 631, "offset": 3172 },
+              "end": { "line": 19, "column": 733, "offset": 3274 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 733, "offset": 3274 },
+              "end": { "line": 19, "column": 736, "offset": 3277 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 736, "offset": 3277 },
+              "end": { "line": 19, "column": 738, "offset": 3279 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.creativebloq.com/features/12-common-javascript-questions-answered",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.creativebloq.com/features/12-common-javascript-questions-answered",
+                "position": {
+                  "start": { "line": 19, "column": 738, "offset": 3279 },
+                  "end": { "line": 19, "column": 814, "offset": 3355 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 738, "offset": 3279 },
+              "end": { "line": 19, "column": 814, "offset": 3355 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 814, "offset": 3355 },
+              "end": { "line": 19, "column": 815, "offset": 3356 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 815, "offset": 3356 },
+              "end": { "line": 19, "column": 817, "offset": 3358 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.creativebloq.com/features/12-common-javascript-questions-answered",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.creativebloq.com/features/12-common-javascript-questions-answered",
+                "position": {
+                  "start": { "line": 19, "column": 817, "offset": 3358 },
+                  "end": { "line": 19, "column": 893, "offset": 3434 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 817, "offset": 3358 },
+              "end": { "line": 19, "column": 893, "offset": 3434 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 893, "offset": 3434 },
+              "end": { "line": 19, "column": 896, "offset": 3437 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 896, "offset": 3437 },
+              "end": { "line": 19, "column": 898, "offset": 3439 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.thatjsdude.com/interview/js1.html",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.thatjsdude.com/interview/js1.html",
+                "position": {
+                  "start": { "line": 19, "column": 898, "offset": 3439 },
+                  "end": { "line": 19, "column": 942, "offset": 3483 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 898, "offset": 3439 },
+              "end": { "line": 19, "column": 942, "offset": 3483 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 942, "offset": 3483 },
+              "end": { "line": 19, "column": 943, "offset": 3484 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 943, "offset": 3484 },
+              "end": { "line": 19, "column": 945, "offset": 3486 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.thatjsdude.com/interview/js1.html",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.thatjsdude.com/interview/js1.html",
+                "position": {
+                  "start": { "line": 19, "column": 945, "offset": 3486 },
+                  "end": { "line": 19, "column": 989, "offset": 3530 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 945, "offset": 3486 },
+              "end": { "line": 19, "column": 989, "offset": 3530 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 989, "offset": 3530 },
+              "end": { "line": 19, "column": 992, "offset": 3533 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 992, "offset": 3533 },
+              "end": { "line": 19, "column": 994, "offset": 3535 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.thatjsdude.com/interview/js2.html",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.thatjsdude.com/interview/js2.html",
+                "position": {
+                  "start": { "line": 19, "column": 994, "offset": 3535 },
+                  "end": { "line": 19, "column": 1038, "offset": 3579 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 994, "offset": 3535 },
+              "end": { "line": 19, "column": 1038, "offset": 3579 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 1038, "offset": 3579 },
+              "end": { "line": 19, "column": 1039, "offset": 3580 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 1039, "offset": 3580 },
+              "end": { "line": 19, "column": 1041, "offset": 3582 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.thatjsdude.com/interview/js2.html",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.thatjsdude.com/interview/js2.html",
+                "position": {
+                  "start": { "line": 19, "column": 1041, "offset": 3582 },
+                  "end": { "line": 19, "column": 1085, "offset": 3626 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1041, "offset": 3582 },
+              "end": { "line": 19, "column": 1085, "offset": 3626 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 1085, "offset": 3626 },
+              "end": { "line": 19, "column": 1088, "offset": 3629 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 1088, "offset": 3629 },
+              "end": { "line": 19, "column": 1090, "offset": 3631 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.thatjsdude.com/interview/dom.html",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.thatjsdude.com/interview/dom.html",
+                "position": {
+                  "start": { "line": 19, "column": 1090, "offset": 3631 },
+                  "end": { "line": 19, "column": 1134, "offset": 3675 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1090, "offset": 3631 },
+              "end": { "line": 19, "column": 1134, "offset": 3675 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 1134, "offset": 3675 },
+              "end": { "line": 19, "column": 1135, "offset": 3676 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 1135, "offset": 3676 },
+              "end": { "line": 19, "column": 1137, "offset": 3678 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "http://www.thatjsdude.com/interview/dom.html",
+            "children": [
+              {
+                "type": "text",
+                "value": "http://www.thatjsdude.com/interview/dom.html",
+                "position": {
+                  "start": { "line": 19, "column": 1137, "offset": 3678 },
+                  "end": { "line": 19, "column": 1181, "offset": 3722 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1137, "offset": 3678 },
+              "end": { "line": 19, "column": 1181, "offset": 3722 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 1181, "offset": 3722 },
+              "end": { "line": 19, "column": 1184, "offset": 3725 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 1184, "offset": 3725 },
+              "end": { "line": 19, "column": 1186, "offset": 3727 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/khan4019/front-end-Interview-Questions",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/khan4019/front-end-Interview-Questions",
+                "position": {
+                  "start": { "line": 19, "column": 1186, "offset": 3727 },
+                  "end": { "line": 19, "column": 1243, "offset": 3784 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1186, "offset": 3727 },
+              "end": { "line": 19, "column": 1243, "offset": 3784 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 1243, "offset": 3784 },
+              "end": { "line": 19, "column": 1244, "offset": 3785 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 1244, "offset": 3785 },
+              "end": { "line": 19, "column": 1246, "offset": 3787 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/khan4019/front-end-Interview-Questions",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/khan4019/front-end-Interview-Questions",
+                "position": {
+                  "start": { "line": 19, "column": 1246, "offset": 3787 },
+                  "end": { "line": 19, "column": 1303, "offset": 3844 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1246, "offset": 3787 },
+              "end": { "line": 19, "column": 1303, "offset": 3844 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 19, "column": 1303, "offset": 3844 },
+              "end": { "line": 19, "column": 1306, "offset": 3847 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 19, "column": 1306, "offset": 3847 },
+              "end": { "line": 19, "column": 1308, "offset": 3849 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+                "position": {
+                  "start": { "line": 19, "column": 1308, "offset": 3849 },
+                  "end": { "line": 19, "column": 1371, "offset": 3912 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1308, "offset": 3849 },
+              "end": { "line": 19, "column": 1371, "offset": 3912 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 19, "column": 1371, "offset": 3912 },
+              "end": { "line": 19, "column": 1372, "offset": 3913 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 19, "column": 1372, "offset": 3913 },
+              "end": { "line": 19, "column": 1374, "offset": 3915 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+                "position": {
+                  "start": { "line": 19, "column": 1374, "offset": 3915 },
+                  "end": { "line": 19, "column": 1437, "offset": 3978 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1374, "offset": 3915 },
+              "end": { "line": 19, "column": 1437, "offset": 3978 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 19, "column": 1437, "offset": 3978 },
+              "end": { "line": 20, "column": 1, "offset": 3980 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Web",
+                "position": {
+                  "start": { "line": 20, "column": 3, "offset": 3982 },
+                  "end": { "line": 20, "column": 10, "offset": 3989 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 20, "column": 1, "offset": 3980 },
+              "end": { "line": 20, "column": 12, "offset": 3991 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 20, "column": 12, "offset": 3991 },
+              "end": { "line": 21, "column": 1, "offset": 3992 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 21, "column": 1, "offset": 3992 },
+              "end": { "line": 21, "column": 3, "offset": 3994 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 21, "column": 3, "offset": 3994 },
+              "end": { "line": 21, "column": 4, "offset": 3995 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 21, "column": 4, "offset": 3995 },
+              "end": { "line": 21, "column": 6, "offset": 3997 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://howdns.works/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://howdns.works/",
+                "position": {
+                  "start": { "line": 21, "column": 6, "offset": 3997 },
+                  "end": { "line": 21, "column": 27, "offset": 4018 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 21, "column": 6, "offset": 3997 },
+              "end": { "line": 21, "column": 27, "offset": 4018 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 21, "column": 27, "offset": 4018 },
+              "end": { "line": 21, "column": 28, "offset": 4019 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 21, "column": 28, "offset": 4019 },
+              "end": { "line": 21, "column": 30, "offset": 4021 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://howdns.works/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://howdns.works/",
+                "position": {
+                  "start": { "line": 21, "column": 30, "offset": 4021 },
+                  "end": { "line": 21, "column": 51, "offset": 4042 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 21, "column": 30, "offset": 4021 },
+              "end": { "line": 21, "column": 51, "offset": 4042 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 21, "column": 51, "offset": 4042 },
+              "end": { "line": 21, "column": 54, "offset": 4045 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 21, "column": 54, "offset": 4045 },
+              "end": { "line": 21, "column": 56, "offset": 4047 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://howhttps.works",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://howhttps.works",
+                "position": {
+                  "start": { "line": 21, "column": 56, "offset": 4047 },
+                  "end": { "line": 21, "column": 78, "offset": 4069 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 21, "column": 56, "offset": 4047 },
+              "end": { "line": 21, "column": 78, "offset": 4069 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 21, "column": 78, "offset": 4069 },
+              "end": { "line": 21, "column": 79, "offset": 4070 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 21, "column": 79, "offset": 4070 },
+              "end": { "line": 21, "column": 81, "offset": 4072 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://howhttps.works/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://howhttps.works/",
+                "position": {
+                  "start": { "line": 21, "column": 81, "offset": 4072 },
+                  "end": { "line": 21, "column": 104, "offset": 4095 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 21, "column": 81, "offset": 4072 },
+              "end": { "line": 21, "column": 104, "offset": 4095 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 21, "column": 104, "offset": 4095 },
+              "end": { "line": 22, "column": 1, "offset": 4097 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Architecture",
+                "position": {
+                  "start": { "line": 22, "column": 3, "offset": 4099 },
+                  "end": { "line": 22, "column": 19, "offset": 4115 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 22, "column": 1, "offset": 4097 },
+              "end": { "line": 22, "column": 21, "offset": 4117 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 22, "column": 21, "offset": 4117 },
+              "end": { "line": 23, "column": 1, "offset": 4118 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 23, "column": 1, "offset": 4118 },
+              "end": { "line": 23, "column": 3, "offset": 4120 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 23, "column": 3, "offset": 4120 },
+              "end": { "line": 23, "column": 4, "offset": 4121 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 23, "column": 4, "offset": 4121 },
+              "end": { "line": 23, "column": 6, "offset": 4123 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3",
+                "position": {
+                  "start": { "line": 23, "column": 6, "offset": 4123 },
+                  "end": { "line": 23, "column": 93, "offset": 4210 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 6, "offset": 4123 },
+              "end": { "line": 23, "column": 93, "offset": 4210 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 23, "column": 93, "offset": 4210 },
+              "end": { "line": 23, "column": 94, "offset": 4211 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 23, "column": 94, "offset": 4211 },
+              "end": { "line": 23, "column": 96, "offset": 4213 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3",
+                "position": {
+                  "start": { "line": 23, "column": 96, "offset": 4213 },
+                  "end": { "line": 23, "column": 183, "offset": 4300 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 96, "offset": 4213 },
+              "end": { "line": 23, "column": 183, "offset": 4300 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 23, "column": 183, "offset": 4300 },
+              "end": { "line": 23, "column": 186, "offset": 4303 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 23, "column": 186, "offset": 4303 },
+              "end": { "line": 23, "column": 188, "offset": 4305 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns",
+                "position": {
+                  "start": { "line": 23, "column": 188, "offset": 4305 },
+                  "end": { "line": 23, "column": 268, "offset": 4385 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 188, "offset": 4305 },
+              "end": { "line": 23, "column": 268, "offset": 4385 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 23, "column": 268, "offset": 4385 },
+              "end": { "line": 23, "column": 269, "offset": 4386 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 23, "column": 269, "offset": 4386 },
+              "end": { "line": 23, "column": 271, "offset": 4388 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns",
+                "position": {
+                  "start": { "line": 23, "column": 271, "offset": 4388 },
+                  "end": { "line": 23, "column": 351, "offset": 4468 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 271, "offset": 4388 },
+              "end": { "line": 23, "column": 351, "offset": 4468 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 23, "column": 351, "offset": 4468 },
+              "end": { "line": 23, "column": 354, "offset": 4471 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 23, "column": 354, "offset": 4471 },
+              "end": { "line": 23, "column": 356, "offset": 4473 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+                "position": {
+                  "start": { "line": 23, "column": 356, "offset": 4473 },
+                  "end": { "line": 23, "column": 420, "offset": 4537 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 356, "offset": 4473 },
+              "end": { "line": 23, "column": 420, "offset": 4537 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 23, "column": 420, "offset": 4537 },
+              "end": { "line": 23, "column": 421, "offset": 4538 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 23, "column": 421, "offset": 4538 },
+              "end": { "line": 23, "column": 423, "offset": 4540 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+                "position": {
+                  "start": { "line": 23, "column": 423, "offset": 4540 },
+                  "end": { "line": 23, "column": 487, "offset": 4604 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 423, "offset": 4540 },
+              "end": { "line": 23, "column": 487, "offset": 4604 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 23, "column": 487, "offset": 4604 },
+              "end": { "line": 24, "column": 1, "offset": 4606 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Accessibility",
+                "position": {
+                  "start": { "line": 24, "column": 3, "offset": 4608 },
+                  "end": { "line": 24, "column": 20, "offset": 4625 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 24, "column": 1, "offset": 4606 },
+              "end": { "line": 24, "column": 22, "offset": 4627 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 24, "column": 22, "offset": 4627 },
+              "end": { "line": 25, "column": 1, "offset": 4628 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 25, "column": 1, "offset": 4628 },
+              "end": { "line": 25, "column": 3, "offset": 4630 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 25, "column": 3, "offset": 4630 },
+              "end": { "line": 25, "column": 4, "offset": 4631 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 25, "column": 4, "offset": 4631 },
+              "end": { "line": 25, "column": 6, "offset": 4633 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/accessibility/how-to-review",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/accessibility/how-to-review",
+                "position": {
+                  "start": { "line": 25, "column": 6, "offset": 4633 },
+                  "end": { "line": 25, "column": 80, "offset": 4707 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 25, "column": 6, "offset": 4633 },
+              "end": { "line": 25, "column": 80, "offset": 4707 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 25, "column": 80, "offset": 4707 },
+              "end": { "line": 25, "column": 81, "offset": 4708 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 25, "column": 81, "offset": 4708 },
+              "end": { "line": 25, "column": 83, "offset": 4710 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/accessibility/how-to-review",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/accessibility/how-to-review",
+                "position": {
+                  "start": { "line": 25, "column": 83, "offset": 4710 },
+                  "end": { "line": 25, "column": 157, "offset": 4784 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 25, "column": 83, "offset": 4710 },
+              "end": { "line": 25, "column": 157, "offset": 4784 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 25, "column": 157, "offset": 4784 },
+              "end": { "line": 26, "column": 1, "offset": 4786 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Node",
+                "position": {
+                  "start": { "line": 26, "column": 3, "offset": 4788 },
+                  "end": { "line": 26, "column": 11, "offset": 4796 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 26, "column": 1, "offset": 4786 },
+              "end": { "line": 26, "column": 13, "offset": 4798 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 26, "column": 13, "offset": 4798 },
+              "end": { "line": 27, "column": 1, "offset": 4799 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 27, "column": 1, "offset": 4799 },
+              "end": { "line": 27, "column": 3, "offset": 4801 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 27, "column": 3, "offset": 4801 },
+              "end": { "line": 27, "column": 4, "offset": 4802 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 27, "column": 4, "offset": 4802 },
+              "end": { "line": 27, "column": 6, "offset": 4804 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/a-guide-to-npm-the-node-package-manager",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/a-guide-to-npm-the-node-package-manager",
+                "position": {
+                  "start": { "line": 27, "column": 6, "offset": 4804 },
+                  "end": { "line": 27, "column": 79, "offset": 4877 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 27, "column": 6, "offset": 4804 },
+              "end": { "line": 27, "column": 79, "offset": 4877 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 27, "column": 79, "offset": 4877 },
+              "end": { "line": 27, "column": 80, "offset": 4878 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 27, "column": 80, "offset": 4878 },
+              "end": { "line": 27, "column": 82, "offset": 4880 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/a-guide-to-npm-the-node-package-manager",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/a-guide-to-npm-the-node-package-manager",
+                "position": {
+                  "start": { "line": 27, "column": 82, "offset": 4880 },
+                  "end": { "line": 27, "column": 155, "offset": 4953 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 27, "column": 82, "offset": 4880 },
+              "end": { "line": 27, "column": 155, "offset": 4953 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 27, "column": 155, "offset": 4953 },
+              "end": { "line": 28, "column": 1, "offset": 4955 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### JS",
+                "position": {
+                  "start": { "line": 28, "column": 3, "offset": 4957 },
+                  "end": { "line": 28, "column": 9, "offset": 4963 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 28, "column": 1, "offset": 4955 },
+              "end": { "line": 28, "column": 11, "offset": 4965 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 28, "column": 11, "offset": 4965 },
+              "end": { "line": 29, "column": 1, "offset": 4966 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 29, "column": 1, "offset": 4966 },
+              "end": { "line": 29, "column": 3, "offset": 4968 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 29, "column": 3, "offset": 4968 },
+              "end": { "line": 29, "column": 4, "offset": 4969 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 4, "offset": 4969 },
+              "end": { "line": 29, "column": 6, "offset": 4971 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/",
+                "position": {
+                  "start": { "line": 29, "column": 6, "offset": 4971 },
+                  "end": { "line": 29, "column": 89, "offset": 5054 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 6, "offset": 4971 },
+              "end": { "line": 29, "column": 89, "offset": 5054 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 89, "offset": 5054 },
+              "end": { "line": 29, "column": 90, "offset": 5055 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 90, "offset": 5055 },
+              "end": { "line": 29, "column": 92, "offset": 5057 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/",
+                "position": {
+                  "start": { "line": 29, "column": 92, "offset": 5057 },
+                  "end": { "line": 29, "column": 175, "offset": 5140 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 92, "offset": 5057 },
+              "end": { "line": 29, "column": 175, "offset": 5140 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 29, "column": 175, "offset": 5140 },
+              "end": { "line": 29, "column": 178, "offset": 5143 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 178, "offset": 5143 },
+              "end": { "line": 29, "column": 180, "offset": 5145 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/primers/async-functions",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/primers/async-functions",
+                "position": {
+                  "start": { "line": 29, "column": 180, "offset": 5145 },
+                  "end": { "line": 29, "column": 250, "offset": 5215 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 180, "offset": 5145 },
+              "end": { "line": 29, "column": 250, "offset": 5215 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 250, "offset": 5215 },
+              "end": { "line": 29, "column": 251, "offset": 5216 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 251, "offset": 5216 },
+              "end": { "line": 29, "column": 253, "offset": 5218 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/primers/async-functions",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/primers/async-functions",
+                "position": {
+                  "start": { "line": 29, "column": 253, "offset": 5218 },
+                  "end": { "line": 29, "column": 323, "offset": 5288 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 253, "offset": 5218 },
+              "end": { "line": 29, "column": 323, "offset": 5288 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 29, "column": 323, "offset": 5288 },
+              "end": { "line": 29, "column": 326, "offset": 5291 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 326, "offset": 5291 },
+              "end": { "line": 29, "column": 328, "offset": 5293 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/primers/promises",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/primers/promises",
+                "position": {
+                  "start": { "line": 29, "column": 328, "offset": 5293 },
+                  "end": { "line": 29, "column": 391, "offset": 5356 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 328, "offset": 5293 },
+              "end": { "line": 29, "column": 391, "offset": 5356 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 391, "offset": 5356 },
+              "end": { "line": 29, "column": 392, "offset": 5357 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 392, "offset": 5357 },
+              "end": { "line": 29, "column": 394, "offset": 5359 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://developers.google.com/web/fundamentals/primers/promises",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://developers.google.com/web/fundamentals/primers/promises",
+                "position": {
+                  "start": { "line": 29, "column": 394, "offset": 5359 },
+                  "end": { "line": 29, "column": 457, "offset": 5422 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 394, "offset": 5359 },
+              "end": { "line": 29, "column": 457, "offset": 5422 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 29, "column": 457, "offset": 5422 },
+              "end": { "line": 29, "column": 460, "offset": 5425 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 460, "offset": 5425 },
+              "end": { "line": 29, "column": 462, "offset": 5427 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial",
+                "position": {
+                  "start": { "line": 29, "column": 462, "offset": 5427 },
+                  "end": { "line": 29, "column": 540, "offset": 5505 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 462, "offset": 5427 },
+              "end": { "line": 29, "column": 540, "offset": 5505 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 540, "offset": 5505 },
+              "end": { "line": 29, "column": 541, "offset": 5506 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 541, "offset": 5506 },
+              "end": { "line": 29, "column": 543, "offset": 5508 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial",
+                "position": {
+                  "start": { "line": 29, "column": 543, "offset": 5508 },
+                  "end": { "line": 29, "column": 621, "offset": 5586 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 543, "offset": 5508 },
+              "end": { "line": 29, "column": 621, "offset": 5586 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 29, "column": 621, "offset": 5586 },
+              "end": { "line": 29, "column": 624, "offset": 5589 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 624, "offset": 5589 },
+              "end": { "line": 29, "column": 626, "offset": 5591 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/software/definitive-guide-to-datetime-manipulation",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/software/definitive-guide-to-datetime-manipulation",
+                "position": {
+                  "start": { "line": 29, "column": 626, "offset": 5591 },
+                  "end": { "line": 29, "column": 699, "offset": 5664 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 626, "offset": 5591 },
+              "end": { "line": 29, "column": 699, "offset": 5664 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 699, "offset": 5664 },
+              "end": { "line": 29, "column": 700, "offset": 5665 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 700, "offset": 5665 },
+              "end": { "line": 29, "column": 702, "offset": 5667 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/software/definitive-guide-to-datetime-manipulation",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/software/definitive-guide-to-datetime-manipulation",
+                "position": {
+                  "start": { "line": 29, "column": 702, "offset": 5667 },
+                  "end": { "line": 29, "column": 775, "offset": 5740 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 702, "offset": 5667 },
+              "end": { "line": 29, "column": 775, "offset": 5740 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 29, "column": 775, "offset": 5740 },
+              "end": { "line": 29, "column": 778, "offset": 5743 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 778, "offset": 5743 },
+              "end": { "line": 29, "column": 780, "offset": 5745 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/javascript-es6-cheat-sheet",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/javascript-es6-cheat-sheet",
+                "position": {
+                  "start": { "line": 29, "column": 780, "offset": 5745 },
+                  "end": { "line": 29, "column": 840, "offset": 5805 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 780, "offset": 5745 },
+              "end": { "line": 29, "column": 840, "offset": 5805 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 840, "offset": 5805 },
+              "end": { "line": 29, "column": 841, "offset": 5806 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 841, "offset": 5806 },
+              "end": { "line": 29, "column": 843, "offset": 5808 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.toptal.com/javascript/javascript-es6-cheat-sheet",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.toptal.com/javascript/javascript-es6-cheat-sheet",
+                "position": {
+                  "start": { "line": 29, "column": 843, "offset": 5808 },
+                  "end": { "line": 29, "column": 903, "offset": 5868 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 843, "offset": 5808 },
+              "end": { "line": 29, "column": 903, "offset": 5868 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")- ",
+            "position": {
+              "start": { "line": 29, "column": 903, "offset": 5868 },
+              "end": { "line": 29, "column": 906, "offset": 5871 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 29, "column": 906, "offset": 5871 },
+              "end": { "line": 29, "column": 908, "offset": 5873 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.safaribooksonline.com/library/view/es6-in-motion/10000MNLV201701/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.safaribooksonline.com/library/view/es6-in-motion/10000MNLV201701/",
+                "position": {
+                  "start": { "line": 29, "column": 908, "offset": 5873 },
+                  "end": { "line": 29, "column": 985, "offset": 5950 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 908, "offset": 5873 },
+              "end": { "line": 29, "column": 985, "offset": 5950 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 29, "column": 985, "offset": 5950 },
+              "end": { "line": 29, "column": 986, "offset": 5951 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 29, "column": 986, "offset": 5951 },
+              "end": { "line": 29, "column": 988, "offset": 5953 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.safaribooksonline.com/library/view/es6-in-motion/10000MNLV201701/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.safaribooksonline.com/library/view/es6-in-motion/10000MNLV201701/",
+                "position": {
+                  "start": { "line": 29, "column": 988, "offset": 5953 },
+                  "end": { "line": 29, "column": 1065, "offset": 6030 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 988, "offset": 5953 },
+              "end": { "line": 29, "column": 1065, "offset": 6030 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 29, "column": 1065, "offset": 6030 },
+              "end": { "line": 30, "column": 1, "offset": 6032 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### CSS",
+                "position": {
+                  "start": { "line": 30, "column": 3, "offset": 6034 },
+                  "end": { "line": 30, "column": 10, "offset": 6041 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 30, "column": 1, "offset": 6032 },
+              "end": { "line": 30, "column": 12, "offset": 6043 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 30, "column": 12, "offset": 6043 },
+              "end": { "line": 31, "column": 1, "offset": 6044 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "-",
+            "position": {
+              "start": { "line": 31, "column": 1, "offset": 6044 },
+              "end": { "line": 31, "column": 3, "offset": 6046 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 31, "column": 3, "offset": 6046 },
+              "end": { "line": 31, "column": 4, "offset": 6047 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 31, "column": 4, "offset": 6047 },
+              "end": { "line": 31, "column": 6, "offset": 6049 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/",
+                "position": {
+                  "start": { "line": 31, "column": 6, "offset": 6049 },
+                  "end": { "line": 31, "column": 73, "offset": 6116 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 31, "column": 6, "offset": 6049 },
+              "end": { "line": 31, "column": 73, "offset": 6116 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "]",
+            "position": {
+              "start": { "line": 31, "column": 73, "offset": 6116 },
+              "end": { "line": 31, "column": 74, "offset": 6117 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 31, "column": 74, "offset": 6117 },
+              "end": { "line": 31, "column": 76, "offset": 6119 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/",
+                "position": {
+                  "start": { "line": 31, "column": 76, "offset": 6119 },
+                  "end": { "line": 31, "column": 143, "offset": 6186 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 31, "column": 76, "offset": 6119 },
+              "end": { "line": 31, "column": 143, "offset": 6186 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 31, "column": 143, "offset": 6186 },
+              "end": { "line": 32, "column": 1, "offset": 6188 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### If you found this guide helpful feel free to checkout my GitHub/gists where I host similar content:",
+                "position": {
+                  "start": { "line": 32, "column": 3, "offset": 6190 },
+                  "end": { "line": 32, "column": 106, "offset": 6293 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 32, "column": 1, "offset": 6188 },
+              "end": { "line": 32, "column": 108, "offset": 6295 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 32, "column": 108, "offset": 6295 },
+              "end": { "line": 33, "column": 1, "offset": 6296 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 33, "column": 1, "offset": 6296 },
+              "end": { "line": 33, "column": 3, "offset": 6298 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 33, "column": 3, "offset": 6298 },
+              "end": { "line": 33, "column": 5, "offset": 6300 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 33, "column": 5, "offset": 6300 },
+              "end": { "line": 33, "column": 7, "offset": 6302 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "bgoonz's gists",
+            "position": {
+              "start": { "line": 33, "column": 7, "offset": 6302 },
+              "end": { "line": 33, "column": 21, "offset": 6316 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 33, "column": 21, "offset": 6316 },
+              "end": { "line": 33, "column": 23, "offset": 6318 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 33, "column": 23, "offset": 6318 },
+              "end": { "line": 33, "column": 25, "offset": 6320 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 33, "column": 25, "offset": 6320 },
+              "end": { "line": 33, "column": 27, "offset": 6322 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…",
+            "position": {
+              "start": { "line": 33, "column": 27, "offset": 6322 },
+              "end": { "line": 33, "column": 145, "offset": 6440 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 33, "column": 145, "offset": 6440 },
+              "end": { "line": 33, "column": 147, "offset": 6442 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "gist.github.com]",
+            "position": {
+              "start": { "line": 33, "column": 147, "offset": 6442 },
+              "end": { "line": 33, "column": 163, "offset": 6458 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 33, "column": 163, "offset": 6458 },
+              "end": { "line": 33, "column": 165, "offset": 6460 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://gist.github.com/bgoonz",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://gist.github.com/bgoonz",
+                "position": {
+                  "start": { "line": 33, "column": 165, "offset": 6460 },
+                  "end": { "line": 33, "column": 195, "offset": 6490 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 33, "column": 165, "offset": 6460 },
+              "end": { "line": 33, "column": 195, "offset": 6490 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 33, "column": 195, "offset": 6490 },
+              "end": { "line": 34, "column": 1, "offset": 6492 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 34, "column": 1, "offset": 6492 },
+              "end": { "line": 34, "column": 3, "offset": 6494 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 34, "column": 3, "offset": 6494 },
+              "end": { "line": 34, "column": 5, "offset": 6496 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "[",
+            "position": {
+              "start": { "line": 34, "column": 5, "offset": 6496 },
+              "end": { "line": 34, "column": 7, "offset": 6498 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "bgoonz — Overview",
+            "position": {
+              "start": { "line": 34, "column": 7, "offset": 6498 },
+              "end": { "line": 34, "column": 24, "offset": 6515 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 34, "column": 24, "offset": 6515 },
+              "end": { "line": 34, "column": 26, "offset": 6517 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 34, "column": 26, "offset": 6517 },
+              "end": { "line": 34, "column": 28, "offset": 6519 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 34, "column": 28, "offset": 6519 },
+              "end": { "line": 34, "column": 30, "offset": 6521 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…",
+            "position": {
+              "start": { "line": 34, "column": 30, "offset": 6521 },
+              "end": { "line": 34, "column": 143, "offset": 6634 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 34, "column": 143, "offset": 6634 },
+              "end": { "line": 34, "column": 145, "offset": 6636 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "github.com]",
+            "position": {
+              "start": { "line": 34, "column": 145, "offset": 6636 },
+              "end": { "line": 34, "column": 156, "offset": 6647 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "(",
+            "position": {
+              "start": { "line": 34, "column": 156, "offset": 6647 },
+              "end": { "line": 34, "column": 158, "offset": 6649 },
+              "indent": []
+            }
+          },
+          {
+            "type": "link",
+            "title": null,
+            "url": "https://github.com/bgoonz",
+            "children": [
+              {
+                "type": "text",
+                "value": "https://github.com/bgoonz",
+                "position": {
+                  "start": { "line": 34, "column": 158, "offset": 6649 },
+                  "end": { "line": 34, "column": 183, "offset": 6674 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 34, "column": 158, "offset": 6649 },
+              "end": { "line": 34, "column": 183, "offset": 6674 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": ")\n",
+            "position": {
+              "start": { "line": 34, "column": 183, "offset": 6674 },
+              "end": { "line": 35, "column": 1, "offset": 6676 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "strong",
+            "children": [
+              {
+                "type": "text",
+                "value": "### Or Checkout my personal Resource Site:",
+                "position": {
+                  "start": { "line": 35, "column": 3, "offset": 6678 },
+                  "end": { "line": 35, "column": 45, "offset": 6720 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 35, "column": 1, "offset": 6676 },
+              "end": { "line": 35, "column": 47, "offset": 6722 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 35, "column": 47, "offset": 6722 },
+          "indent": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 36, "column": 1, "offset": 6723 }
+    }
+  }
+}
