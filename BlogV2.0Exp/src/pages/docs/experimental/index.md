@@ -17,9 +17,10 @@ content: '<iframe height="900px" width="100%" src="https://replit.com/@bgoonz/li
  '
 template: embed
 ---
+
 ## Lorem ipsum
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+-   Lorem ipsum
+-   dolor sit amet

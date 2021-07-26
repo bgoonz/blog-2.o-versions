@@ -5,8 +5,8 @@
 <div align="center">
 
 ### [WEBSITE](https://bgoonz-blog.netlify.app/)
-    
-### [Vercel Backup](https://bgoonz-blog-2-0-iuovoktmh-bgoonz.vercel.app/)    
+
+### [Vercel Backup](https://bgoonz-blog-2-0-iuovoktmh-bgoonz.vercel.app/)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -20,78 +20,71 @@
 
 </div>
 
-
 ## Dependencies:
 
 # bgoonz/BGOONZ_BLOG_2.0
 
 > The new home of my blog/resource sharing website. Contribute to bgoonz/BGOONZ_BLOG_2.0 development by creating an account on GitHub.
 
-*   Watch
-    
+-   Watch
+
     ### Notifications
-    
+
     <button>
-    
+
     <input name="authenticity\_token"> <input name="repository\_id"> <button name="do" value="included"> <button name="do" value="subscribed"> <button name="do" value="ignore">
-    
+
     <button>
-    
+
     [1](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/watchers)
 
-*   Fork
-    
+-   Fork
+
     If this dialog fails to load, you can visit [the fork page](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/fork) directly.
-    
+
     [1](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/members)
 
-Dependency graph
-----------------
+## Dependency graph
 
-These dependencies are defined in **BGOONZ\_BLOG\_2.0**’s manifest files, such as [package.json](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/dependencies#package.json "package.json"), […/backup/package-lock.json](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/dependencies#notes%252Fbackup%252Fpackage-lock.json "notes/backup/package-lock.json"), and […/backup/package.json](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/dependencies#notes%252Fbackup%252Fpackage.json "notes/backup/package.json").
+These dependencies are defined in **BGOONZ_BLOG_2.0**’s manifest files, such as [package.json](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/dependencies#package.json 'package.json'), […/backup/package-lock.json](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/dependencies#notes%252Fbackup%252Fpackage-lock.json 'notes/backup/package-lock.json'), and […/backup/package.json](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/bgoonz/BGOONZ_BLOG_2.0/network/dependencies#notes%252Fbackup%252Fpackage.json 'notes/backup/package.json').
 
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-builder-binary-assignment-operator-visitor
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-builder-binary-assignment-operator-visitor
 
 `7.12.13`
 
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-create-regexp-features-plugin
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-create-regexp-features-plugin
 
 `7.12.16`
 
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-explode-assignable-expression
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-explode-assignable-expression
 
 `7.12.13`
 
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-member-expression-to-functions
-
-`7.12.16`
-
-<button> <button>
-
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-builder-binary-assignment-operator-visitor
-
-`7.12.13`
-
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-create-regexp-features-plugin
-
-`7.12.16`
-
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-explode-assignable-expression
-
-`7.12.13`
-
-<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel)  [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-member-expression-to-functions
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-member-expression-to-functions
 
 `7.12.16`
 
 <button> <button>
 
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-builder-binary-assignment-operator-visitor
+
+`7.12.13`
+
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-create-regexp-features-plugin
+
+`7.12.16`
+
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-explode-assignable-expression
+
+`7.12.13`
+
+<button> [![@babel](https://avatars.githubusercontent.com/u/9637642?s=40&v=4) ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel) [ babel / babel ](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/babel/babel) @babel/helper-member-expression-to-functions
+
+`7.12.16`
+
+<button> <button>
 
 [Source](https://github.com/bgoonz/BGOONZ_BLOG_2.0/network/dependencies)
-
-
-
-
 
 <div  align="center" style=" border: 1px solid black">
 

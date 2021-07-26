@@ -1,4 +1,3 @@
-
 ---
 title: Navigation
 seo:
@@ -72,4 +71,3 @@ excerpt: docs quick reference
 -   [/docs/articles/algo/]("https://bgoonz-blog.netlify.app/docs/articles/algo/")
 -   [/docs/faq/contact/]("https://bgoonz-blog.netlify.app/docs/faq/contact/")
 -   [/docs/nav/]("https://bgoonz-blog.netlify.app/docs/nav/")
-
