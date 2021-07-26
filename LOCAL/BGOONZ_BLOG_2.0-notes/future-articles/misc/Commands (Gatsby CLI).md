@@ -6,8 +6,7 @@ The Gatsby command line tool (CLI) is the main entry point for getting up and ru
 
 _This page provides similar documentation as the gatsby-cli [README](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli/README.md). The [Gatsby cheat sheet](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/cheat-sheet/) has docs for top CLI commands & APIs all ready to print out._
 
-[](#how-to-use-gatsby-cli)How to use gatsby-cli
------------------------------------------------
+## [](#how-to-use-gatsby-cli)How to use gatsby-cli
 
 The Gatsby CLI is available via [npm](https://www.npmjs.com/) and is installed globally by running `npm install -g gatsby-cli`.
 
@@ -15,8 +14,7 @@ You can also use the `package.json` script variant of these commands, typically 
 
     {  "scripts": {    "develop": "gatsby develop"  }}
 
-[](#api-commands)API commands
------------------------------
+## [](#api-commands)API commands
 
 All the following documentation is available in the tool by running `gatsby --help`.
 
@@ -38,22 +36,22 @@ Note that this will not prompt you to create a custom setup, but only clone the 
 
 ##### [](#arguments)Arguments
 
-| Argument | Description |
-| --- | --- |
-| site-name | Your Gatsby site name, which is also used to create a project directory. |
+| Argument    | Description                                                                                                                                                                                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| site-name   | Your Gatsby site name, which is also used to create a project directory.                                                                                                                                                                                    |
 | starter-url | A Gatsby starter URL or local file path. Defaults to [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default); see the [Gatsby starters](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/starters/) docs for more information. |
 
 > Note: The `site-name` should only consist of letters and numbers. If you specify a `.`, `./` or a `<space>` in the name, `gatsby new` will throw an error.
 
 ##### [](#examples)Examples
 
-*   Create a Gatsby site named `my-awesome-site` using the default starter:
+- Create a Gatsby site named `my-awesome-site` using the default starter:
 
-    gatsby new my-awesome-site
+  gatsby new my-awesome-site
 
-*   Create a Gatsby site named `my-awesome-blog-site`, using [gatsby-starter-blog](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/starters/gatsbyjs/gatsby-starter-blog/):
+- Create a Gatsby site named `my-awesome-blog-site`, using [gatsby-starter-blog](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/starters/gatsbyjs/gatsby-starter-blog/):
 
-    gatsby new my-awesome-blog-site https://github.com/gatsbyjs/gatsby-starter-blog
+  gatsby new my-awesome-blog-site https://github.com/gatsbyjs/gatsby-starter-blog
 
 See the [Gatsby starters docs](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/starters/) for more details.
 
@@ -65,13 +63,13 @@ Once you’ve installed a Gatsby site, go to the root directory of your project 
 
 #### [](#options)Options
 
-| Option | Description |
-| --- | --- |
-| `-H`, `--host` | Set host. Defaults to localhost |
-| `-p`, `--port` | Set port. Defaults to env.PORT or 8000 |
-| `-o`, `--open` | Open the site in your (default) browser for you |
-| `-S`, `--https` | Use HTTPS |
-| `--inspect` | Opens a port for debugging |
+| Option          | Description                                     |
+| --------------- | ----------------------------------------------- |
+| `-H`, `--host`  | Set host. Defaults to localhost                 |
+| `-p`, `--port`  | Set port. Defaults to env.PORT or 8000          |
+| `-o`, `--open`  | Open the site in your (default) browser for you |
+| `-S`, `--https` | Use HTTPS                                       |
+| `--inspect`     | Opens a port for debugging                      |
 
 Follow the [Local HTTPS guide](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/local-https/) to find out how you can set up an HTTPS development server using Gatsby.
 
@@ -95,14 +93,14 @@ At the root of a Gatsby site, compile your application and make it ready for dep
 
 #### [](#options-1)Options
 
-| Option | Description |
-| --- | --- |
-| `--prefix-paths` | Build site with link paths prefixed (set pathPrefix in your config) |
-| `--no-uglify` | Build site without uglifying JS bundles (for debugging) |
-| `--profile` | Build site with react profiling. See [Profiling Site Performance with React Profiler](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/profiling-site-performance-with-react-profiler/) |
-| `--open-tracing-config-file` | Tracer configuration file (OpenTracing compatible). See [Performance Tracing](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/performance-tracing/) |
-| `--graphql-tracing` | Trace (see above) every graphql resolver, may have performance implications. |
-| `--no-color`, `--no-colors` | Disables colored terminal output |
+| Option                       | Description                                                                                                                                                                                     |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `--prefix-paths`             | Build site with link paths prefixed (set pathPrefix in your config)                                                                                                                             |
+| `--no-uglify`                | Build site without uglifying JS bundles (for debugging)                                                                                                                                         |
+| `--profile`                  | Build site with react profiling. See [Profiling Site Performance with React Profiler](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/profiling-site-performance-with-react-profiler/) |
+| `--open-tracing-config-file` | Tracer configuration file (OpenTracing compatible). See [Performance Tracing](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/performance-tracing/)                                    |
+| `--graphql-tracing`          | Trace (see above) every graphql resolver, may have performance implications.                                                                                                                    |
+| `--no-color`, `--no-colors`  | Disables colored terminal output                                                                                                                                                                |
 
 In addition to these build options, there are some optional [build environment variables](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/docs/how-to/local-development/environment-variables/#build-variables) for more advanced configurations that can adjust how a build runs. For example, setting `CI=true` as an environment variable will tailor output for [dumb terminals](https://en.wikipedia.org/wiki/Computer_terminal#Dumb_terminals).
 
@@ -114,11 +112,11 @@ At the root of a Gatsby site, serve the production build of your site for testin
 
 #### [](#options-2)Options
 
-| Option | Description |
-| --- | --- |
-| `-H`, `--host` | Set host. Defaults to localhost |
-| `-p`, `--port` | Set port. Defaults to 9000 |
-| `-o`, `--open` | Open the site in your (default) browser for you |
+| Option           | Description                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| `-H`, `--host`   | Set host. Defaults to localhost                                                          |
+| `-p`, `--port`   | Set port. Defaults to 9000                                                               |
+| `-o`, `--open`   | Open the site in your (default) browser for you                                          |
 | `--prefix-paths` | Serve site with link paths prefixed (if built with pathPrefix in your gatsby-config.js). |
 
 ### [](#info)`info`
@@ -129,8 +127,8 @@ At the root of a Gatsby site, get helpful environment information which will be 
 
 #### [](#options-3)Options
 
-| Option | Description |
-| --- | --- |
+| Option              | Description                                             |
+| ------------------- | ------------------------------------------------------- |
 | `-C`, `--clipboard` | Automagically copy environment information to clipboard |
 
 ### [](#clean)`clean`
@@ -141,10 +139,10 @@ At the root of a Gatsby site, wipe out the cache (`.cache` folder) and public di
 
 This is useful as a last resort when your local project seems to have issues or content does not seem to be refreshing. Issues this may fix commonly include:
 
-*   Stale data, e.g. this file/resource/etc. isn’t appearing
-*   GraphQL error, e.g. this GraphQL resource should be present but is not
-*   Dependency issues, e.g. invalid version, cryptic errors in console, etc.
-*   Plugin issues, e.g. developing a local plugin and changes don’t seem to be taking effect
+- Stale data, e.g. this file/resource/etc. isn’t appearing
+- GraphQL error, e.g. this GraphQL resource should be present but is not
+- Dependency issues, e.g. invalid version, cryptic errors in console, etc.
+- Plugin issues, e.g. developing a local plugin and changes don’t seem to be taking effect
 
 ### [](#plugin)`plugin`
 
@@ -192,8 +190,7 @@ For more information, check out the [Gatsby REPL documentation](chrome-extension
 
 In addition to the explicit `--no-color` option, the CLI respects the presence of the `NO_COLOR` environment variable (see [no-color.org](https://no-color.org/)).
 
-[](#how-to-change-your-default-package-manager-for-your-next-project)How to change your default package manager for your next project?
---------------------------------------------------------------------------------------------------------------------------------------
+## [](#how-to-change-your-default-package-manager-for-your-next-project)How to change your default package manager for your next project?
 
 When you use `gatsby new` for the first time to create a new project, you are asked to choose your default package manager between yarn and npm.
 
@@ -208,6 +205,5 @@ In it you’re going to see something like this.
     {  "cli": {    "packageManager": "yarn"  }}
 
 Edit your `packageManager` value, save and you’re good to go for your next project using `gatsby new`.
-
 
 [Source](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)

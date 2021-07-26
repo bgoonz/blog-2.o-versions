@@ -2,14 +2,11 @@
 
 > Build lean, mean components
 
-Build lean, mean components
----------------------------
+## Build lean, mean components
 
 [
 
 ![Matthew Croak](https://miro.medium.com/fit/c/96/96/1*HLHRHqE91C1dj5jm1GYO3A@2x.jpeg)
-
-
 
 ](https://matt-croak.medium.com/?source=post_page-----ab5f4d11f9bc--------------------------------)
 
@@ -41,7 +38,7 @@ As you can see, I have a state value, `compiled`, which is the compiled HTML, CS
 
 I need to use `componentDidUpdate` because whenever `this.props.compiled` is updated I need to call this:
 
-x.contentDocument.open()           
+x.contentDocument.open()  
 x.contentDocument.close()  
 x.contentDocument.write(this.state.compiled)
 
@@ -51,14 +48,13 @@ Now, let’s clean up our code and convert our component to use Hooks.
 
 First, let’s focus on the state.
 
-state = {          
-   compiled: ''  
+state = {  
+ compiled: ''  
 }
 
 The above code can be rewritten to use our first Hook, called `[useState](https://reactjs.org/docs/hooks-state.html)`.
 
-useState
---------
+## useState
 
 We can use `useState` to rewrite the above code. See below.
 
@@ -74,8 +70,7 @@ The argument we passed to `useState` represents the initial value we want our va
 
 Next, we will focus on replacing the life cycle methods, `componentDidMount` and `componentDidUpdate`. These are useful methods for class components but have been unavailable to functional ones…until now (sort of).
 
-useEffect
----------
+## useEffect
 
 The `[useEffect](https://reactjs.org/docs/hooks-effect.html)` Hook allows you to perform side-effects in a functional component.
 
@@ -108,6 +103,5 @@ If they are the same, no need to re-render. Otherwise, re-render and then compar
 Below is the final result of our class to functional component conversion.
 
 By implementing React Hooks, we were able to convert our class component to a functional one, which has resulted in more readable code, less redundancy, and potentially more [optimal performance](https://medium.com/better-programming/rundown-of-the-most-important-react-hooks-5c9ec4cac5a2) from our component.
-
 
 [Source](https://betterprogramming.pub/convert-your-class-component-to-a-functional-one-with-react-hooks-ab5f4d11f9bc)

@@ -70,11 +70,10 @@ import React from "react"import { graphql } from "gatsby"export default function
 Two things are important in the file above:
 
 1.  A GraphQL query is made in the second half of the file to get the Markdown data. Gatsby has automagically given you all the Markdown metadata and HTML in this query’s result.
-    
+
     **Note: To learn more about GraphQL, consider this [excellent resource](https://www.howtographql.com/)**
-    
+
 2.  The result of the query is injected by Gatsby into the component as the `data` prop. `props.data.markdownRemark` is the property that has all the details of the Markdown file.
-    
 
 Next you could create a page component at `src/pages/blog/index.js` to serve as a listing page for all your blog posts.
 

@@ -6,15 +6,13 @@
 
 ![](https://cdn.netlify.com/3a4e894e60449f4002ed67444d8eea46aafa233b/879eb/img/blog/jamstack-themes-screenshot.png)
 
-The Idea
---------
+## The Idea
 
 At Stackbit I do a lot of work on [Uniform Themes](https://www.stackbit.com/uniform-themes). It lets developers turn existing themes built with any Static Site Generator (SSG) into CMS-powered websites that deploy to Netlify. Here’s an example using an open source Hugo Theme: [https://app.stackbit.com/create?theme=https://github.com/JugglerX/hugo-serif-theme](https://app.stackbit.com/create?theme=https://github.com/JugglerX/hugo-serif-theme)
 
 I develop themes for nearly all the different static site generators. There are hundreds of themes out there and I was surprised there was no resource that collected all of them in one place. So I decided to create one 🤔 and as it turns out it didn’t take long. It’s a great example of how rapid and low friction the JAMstack can make building websites. Literally, the first thing I showed the team at Stackbit was a link to a working website at our Monday morning standup.
 
-Choosing the SSG
-----------------
+## Choosing the SSG
 
 When I choose an SSG I consider the following:
 
@@ -40,15 +38,13 @@ The site would only have one custom content type, “theme” and the data sourc
 
 Finally the only complex interactive feature would be filtering the themes. I knew masonry.js and isotope.js could achieve this with ease but they are both libraries which manipulate the DOM directly. A React component might be a superior choice but was it worth moving to Gatsby? Gatsby would set me back at least a few days, I would need to build the categories, relationships and views from scratch. I’d need to write GraphQL queries for markdown… I’d need to install and configure a dozen plugins just to get basics SEO, SVG, SCSS, etc.
 
-Selecting Hugo
---------------
+## Selecting Hugo
 
 Having identified the requirements and considering my timeline I decided to go with [Hugo](https://www.gohugo.io/). One of Hugo’s strengths (and weaknesses) is its prescriptive content and template structure. With Hugo, the folder and naming conventions of your content inform the template lookup order and selection. Other SSG’s are typically less opinionated about this or rely more heavily on a template lookup key (explicitly declaring which template to use in the front-matter). I had a clear content type which required list and detail views and I would get all of this for free in Hugo if I just placed the content in `content/theme/theme-name.md`. Hugo also has first class taxonomy support out of the box and it would automatically generate views for each taxonomy and term. Great for a gallery site. Finally Hugo works with zero dependencies. It comes with SCSS and asset minification included (Sorry no CSS in JS 😂). This would help me move fast. It also has a few bonus features I was keen to leverage: Git file info and JSON/RSS output formats.
 
 I could delve into the pros and cons of Hugo vs the other SSG’s but thats its own article. Needless to say all the top SSG’s could have done the job. Hugo was a good fit for this project and it’s an SSG I felt I could work with quickly without getting “bogged down in the tech”
 
-Starting Development
---------------------
+## Starting Development
 
 I looked around at a couple of gallery sites for inspiration and concluded that I didn’t need to reinvent the wheel design-wise. So I skipped Sketch and started designing straight in the browser.
 
@@ -57,29 +53,24 @@ The first thing I did was install Hugo, create a basic skeleton theme and get my
 Then I focused on content. I defined the main content type of “theme” in `content/theme/alembic.md`
 
     ---title: 'Alembic'github: https://github.com/daviddarnes/alembicdemo: https://alembic.darn.es/author: David Darnesssg:- Jekyllcms:- NetlifyCMS- Forestry- DatoCMS- Contentful---
-    
 
 The front-matter outlines the available fields for use in the templates. `github` and `demo` provide the links to the theme itself. `ssg` and `cms` are arrays of category items. These categories can be filtered on the homepage grid. My expectation is there will be hundreds of themes to choose from and and that filtering the themes down to a smaller subset will be a popular use case.
 
 That’s pretty much it for our “database”—simple and effective 🥃. Hugo will handle the category relationships and create views for each. We just need to define them in the `config.toml`
 
     [taxonomies]  ssg = "ssg"  cms = "cms"
-    
 
 Next I hunted around the internet and added about 20 themes. Getting real content into a browser as fast as possible always helps.
 
-Creating the Homepage
----------------------
+## Creating the Homepage
 
 The homepage is a grid of themes. The grid is a forEach loop (in Hugo a `range`) with a partial for the theme card. The grid is styled using flex-box.
 
     {{ $themes := (where .Site.RegularPages "Type" "theme") }}<div class="grids">    {{ range sort $themes "Lastmod" "desc" }}    {{ partial "theme-card.html" . }}{{ end }</div>
-    
 
 One cool (and relatively unknown) feature in Hugo is the Git file integration. In the range above I’m sorting the content by “Lastmod” which is normally a param in the markdown files front-matter, ie `lastmod: "2006-01-02"` but if you set the following in your `config.toml` `enableGitInfo: true` Hugo will automatically use the Git commit dates of each file as the last modified date. This was perfect for a gallery site, where typically the default sort order is submission date. This means returning visitors and people consuming JSON or RSS feeds receive new themes first.
 
-Generating GitHub Data
-----------------------
+## Generating GitHub Data
 
 Now that I had a grid of themes I realised I needed a little more metadata to help me evaluate the themes quality. I wanted to see the repos star count and last commit date. This is a useful proxy to assess quality and staleness of a theme without having to click through to the actual GitHub repo. It also allowed for additional sorting options.
 
@@ -92,32 +83,26 @@ Unfortunately API calls to get JSON are not possible in Hugo. This is where an S
 I wrote the following node script `generate-github.json`. It reads the markdown files from `content/theme` and does an API call for each GitHub repo in the markdown files front-matter.
 
     const fs = require('fs');    const path = require('path');    const yamlFront = require('yaml-front-matter');    const gh = require('parse-github-url');    const axios = require('axios');    const themesFolder = './content/theme';    const themeFiles = fs.readdirSync(themesFolder);    const githubData = {};    const token = process.env.GITHUB_TOKEN;    loadTheme = async file => {      const data = fs.readFileSync(path.join(themesFolder, file));      const frontmatter = yamlFront.loadFront(data);      if (frontmatter.github) {        let github = gh(frontmatter.github);        let githubBranch = frontmatter.github_branch ? frontmatter.github_branch : 'master';        let themeKey = github.repo.replace("/", "-").toLowerCase();        if (githubBranch !== 'master') {          themeKey = `${themeKey}-${githubBranch}`        }            repoResponse = await axios.get(          `https://api.github.com/repos/${github.repo}`,          {            headers: {              Authorization: `Token ${token}`,            },          }        ).then((res) => {          console.log(`${file} => ${res.data.html_url} - ${res.status}`);          repoResponse = res;          githubData[themeKey] = {            theme_key: themeKey,            name: repoResponse.data.name,            repo: repoResponse.data.full_name,            branch: githubBranch,            url: repoResponse.data.html_url,            stars: repoResponse.data.stargazers_count,            forks: repoResponse.data.forks_count,            open_issues: repoResponse.data.open_issues_count,            last_commit: repoResponse.data.pushed_at          }        });      }    };    Promise.all(themeFiles.map(file => loadTheme(file)))      .then(res => {        console.log("Writing data/themes.json...")        fs.writeFileSync('./data/themes.json', JSON.stringify(githubData, null, 2));      })      .catch(error => {        console.log(error);      });
-    
 
 This writes a JSON file to `data/themes.json`, which includes all the GitHub meta data for each theme. Themes are keyed objects. So in the Hugo template I can easily lookup the data from different layouts.
 
     {{ $repoName := (substr (replace .Params.github "/" "-") 19 | urlize) }}{{ $repo := index .Site.Data.themes $repoName }}{{ $repo }}
-    
 
 For example, given the following markdown file…
 
     ---title: 'Alembic'github: https://github.com/daviddarnes/alembic...---
-    
 
 …and the following `content/themes.json`
 
     [  ...  "daviddarnes-alembic": {    "theme_key": "daviddarnes-alembic",    "name": "alembic",    "repo": "daviddarnes/alembic",    "branch": "master",    "url": "https://github.com/daviddarnes/alembic",    "stars": 331,    "forks": 367,    "open_issues": 3,    "last_commit": "2019-07-09T07:57:57Z"  },  ...]
-    
 
 \`{{ $repoName }}\` would output `daviddarnes-alembic`. We can use this to lookup the object in `data/themes.json` using `{{ $repo := index .Site.Data.themes $repoName }}`
 
 In our template we can then render this data
 
     {{ $repo.stars }}
-    
 
-Generating Images
------------------
+## Generating Images
 
 Initially I intended for people to take the screenshots of their themes and submit them with the PR, but this created some scaling issues. And, honestly, I quickly got bored of taking screenshots manually when I did the first few themes myself 😴
 
@@ -126,17 +111,14 @@ It turns out automating the screenshots was a great decision. It allowed me to q
 I wrote a node script to capture hi-res screenshots. The script iterates through all the markdown files in `content/themes` and extracts the value from the front-matter `demo` field. It then uses `Pageres` to visit the site using a headless browser and capture a screenshot.
 
     const Pageres = require('pageres');    const fs = require('fs');    const path = require('path');    const yamlFront = require('yaml-front-matter');    const gh = require('parse-github-url');        const themesFolder = './content/theme';    const themeFiles = fs.readdirSync(themesFolder);    const hiresImagesFolder = './static/capture';        captureWebScreenshot = async theme => {      const data = fs.readFileSync(path.join(themesFolder, theme));      const frontmatter = yamlFront.loadFront(data);      let github = gh(frontmatter.github);      let githubBranch = frontmatter.github_branch ? frontmatter.github_branch : 'master';          if (github) {        let themeKey = github.repo.replace("/", "-").toLowerCase();        if (githubBranch !== 'master') {          themeKey = `${themeKey}-${githubBranch}`        }        let themeImage = `${themeKey}.png`        const url = frontmatter.demo            if (fs.existsSync(path.join(hiresImagesFolder, themeImage))) {          console.log(`${theme} skipped`)          return false        } else {          console.log(`${theme} capturing`);          const page = await new Pageres({delay: 2, filename: themeKey})          .src(url, ['1024x768'], {crop: true})          .dest(hiresImagesFolder)          .run();          return page        }      }      return false;    };        Promise.all(themeFiles.map(theme => {        captureWebScreenshot(theme)      })).then(res => {      }).catch(error => {        console.log(error.message);      });
-    
 
 …and a node script to convert the hi-res images into thumbnails of various sizes.
 
     const fs = require('fs');const im = require('imagemagick');const path = require('path');const sharp = require('sharp')const hiresImagesFolder = path.join(__dirname, 'static/capture');const outputFolder = path.join(__dirname, 'static/images/theme/thumbnail')const outputFolder2x = path.join(__dirname, 'static/images/theme/thumbnail/2x')const imageFiles = fs.readdirSync(hiresImagesFolder);imageFiles.forEach((image) => {  const inputImage = path.join(hiresImagesFolder, image)  const imageName = path.parse(image).name  const imageExtension = path.parse(image).ext  const outputImage = path.join(outputFolder, `${imageName}.jpg`)  const outputImage2x = path.join(outputFolder2x, `${imageName}-2x.jpg`)  if (fs.existsSync(outputImage)) {    console.log(`skipped ${inputImage}`)    return false  } else {    console.log(`processing ${inputImage}`)    sharp(inputImage)      .resize({        width: 280,        height: 180,        fit: 'cover',        position: 'top',      })      .jpeg({        quality: 70,      })      .toFile(outputImage)      .then( (ImageResult) => {        console.log(ImageResult);      }).catch((err) => {        console.log(err);      })    sharp(inputImage)      .resize({        width: 560,        height: 360,        fit: 'cover',        position: 'top',      })      .jpeg({        quality: 70,      })      .toFile(outputImage2x)      .then( (ImageResult) => {        console.log(ImageResult);      }).catch((err) => {        console.log(inputImage)        console.log(err);      })  }});
-    
 
 Two thumbnails are generated for each theme. In the Hugo layouts I used `srcset` to serve the 2x images on higher density devices (macs?).
 
     <img width="280" height="180" loading="lazy" src="{{ $filePath | relURL }}" alt="{{ .theme.Params.title }} screenshot" srcset="{{ $filePathHiRes | relURL }} 2x" />
-    
 
 Normally I don’t bother doing this, but there are over 160 images on the homepage. Using srcset and careful image preparation I was able to maintain fast page loads with just native browser features.
 
@@ -146,8 +128,7 @@ I’m actually curious to see how many images/themes we can support until page s
 
 The script also skips capturing and generating thumbnails for themes which already exist. This keeps the build times in Netlify super lean. In the future I will add an option to the scripts to regenerate all or just regenerate a target theme.
 
-Build Pipeline
---------------
+## Build Pipeline
 
 Now we have three scripts which need to be run before executing `hugo` build. One script which generates the additional themes metadata from the GitHub API and two scripts which capture the screenshots and generate the thumbnails.
 
@@ -156,15 +137,12 @@ Running these scripts manually was fine when it was just me working locally. But
 This is straightforward. First let’s wrap these scripts into a single familiar command `npm run build`. In the `package.json` create a new script
 
     "scripts": {"build": "node ./generate-github.js && node ./capture-screenshots.js && node ./generate-thumbnails.js && hugo"}
-    
 
 Create a `netlify.toml` file and override the default hugo build command.
 
     [build]  publish = "public"  command = "npm run build"[build.environment]  HUGO_VERSION = "0.57.2"
-    
 
-Netlify Deploy Previews for PR’s
---------------------------------
+## Netlify Deploy Previews for PR’s
 
 One of my favourite Netlify features is [deploy previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/). When a GitHub PR is submitted, Netlify automatically creates a deploy preview 🏜 I don’t know where it comes from, but it just appears… like magic. In the screenshot below, the last check contains the live [deploy preview](https://deploy-preview-5--jamstackthemes.netlify.com/).
 
@@ -172,14 +150,12 @@ One of my favourite Netlify features is [deploy previews](https://www.netlify.co
 
 For JAMstack Themes this is really helpful. Since people are submitting a PR and the GitHub data and screenshot is only visible AFTER the build, the deploy preview helps validate everything worked correctly. On top of that if the build fails when fetching the GitHub API data or generating the screenshot you can click through and see the public Netlify build log. Super useful.
 
-Wrapping Up
------------
+## Wrapping Up
 
 The first version of this site is by and large similar to what launched. Polishing the site, responsive design, multi-filter (and filter counts) ended up taking a few more days. Often it’s that last 20% that takes just as long as the initial build.
 
 **Final Website**: [https://www.jamstackthemes.dev](https://www.jamstackthemes.dev/)
 
 Got a theme you’d like to submit? Just make a PR [https://github.com/stackbithq/jamstackthemes](https://github.com/stackbithq/jamstackthemes).
-
 
 [Source](https://www.netlify.com/blog/2019/10/07/how-i-built-jamstackthemes.dev-over-the-weekend/)

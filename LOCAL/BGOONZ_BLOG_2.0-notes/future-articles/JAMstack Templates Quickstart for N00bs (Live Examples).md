@@ -18,18 +18,17 @@ _As for the real experts, they also wrote a ton of advanced JAMstack-related con
 
 Here are the projects we’ve come up with:
 
-*   [Franck’s personal blog (VuePress + Forestry)](#franck)
-*   [Nathan’s e-commerce site for digital products (Jekyll + DatoCMS)](#nate)
-*   [Math’s static blog imported from Medium (Gatsby + Netlify CMS)](#math)
+- [Franck’s personal blog (VuePress + Forestry)](#franck)
+- [Nathan’s e-commerce site for digital products (Jekyll + DatoCMS)](#nate)
+- [Math’s static blog imported from Medium (Gatsby + Netlify CMS)](#math)
 
 Harder than we expected? Sure. Happy with the results? Absolutely.
 
 Let’s dive into each of our individual use cases.
 
-Franck’s JAMstack blog template
--------------------------------
+## Franck’s JAMstack blog template
 
- ![vuepress-forestry-jamstack-template](https://snipcart.com/media/204632/vuepress-forestry-jamstack-template.png) 
+![vuepress-forestry-jamstack-template](https://snipcart.com/media/204632/vuepress-forestry-jamstack-template.png)
 
 For my demo, I’ve created a JAMstack version of an old personal blog of mine I’ve been revamping.
 
@@ -45,7 +44,7 @@ Here’s my coupled but revamped blog:
 
 Performance-wise, here’s what it looked like:
 
- ![jamstack-performance-comparison](https://snipcart.com/media/204633/jamstack-performance-comparison.png) 
+![jamstack-performance-comparison](https://snipcart.com/media/204633/jamstack-performance-comparison.png)
 
 Not that bad, but I knew a statically-generated site could do much better.
 
@@ -65,11 +64,11 @@ It’s free! You can do that [here](https://app.stackbit.com/create).
 
 I used Stackbit’s custom themes feature here, i.e. I didn’t pick from their existing theme gallery.
 
- ![stackbit-custom-themes](https://snipcart.com/media/204628/stackbit-custom-themes-1.png) 
+![stackbit-custom-themes](https://snipcart.com/media/204628/stackbit-custom-themes-1.png)
 
 Instead, I simply copy-pasted a GitHub repo URL here:
 
- ![jamstack-templates-custom-theme](https://snipcart.com/media/204620/jamstack-templates-custom-themes.png) 
+![jamstack-templates-custom-theme](https://snipcart.com/media/204620/jamstack-templates-custom-themes.png)
 
 If you’d like to get that same look, make sure you use [this theme repo](https://github.com/alexander-heimbuch/vuepress-theme-casper) by [Alexander Heimbuch](https://github.com/alexander-heimbuch).
 
@@ -81,7 +80,7 @@ If you’re confused about what static site generators are, and which one to pic
 
 The one I picked, Forestry, is a neat, Git-based CMS perfect for any static site. It works with key static site generators in the space: Hugo, Jekyll, Gatsby, VuePress.
 
- ![stackbit-forestry](https://snipcart.com/media/204622/jamstack-templates-stackbit.png) 
+![stackbit-forestry](https://snipcart.com/media/204622/jamstack-templates-stackbit.png)
 
 DatoCMS is also a solid product. Sanity, if you need more control on CMS customizations, is another excellent pick.
 
@@ -89,7 +88,7 @@ DatoCMS is also a solid product. Sanity, if you need more control on CMS customi
 
 If you don’t already have accounts on these services, Stackbit will walk you through either the creation or authentication process. Super simple.
 
- ![stackbit-connect-accounts](https://snipcart.com/media/204627/stackbit-connect-github-and-forestry-screen.png) 
+![stackbit-connect-accounts](https://snipcart.com/media/204627/stackbit-connect-github-and-forestry-screen.png)
 
 And that’s it—your site is live!
 
@@ -97,11 +96,11 @@ And that’s it—your site is live!
 
 Next, you’ll want to head over to Netlify to [pick a custom domain name](https://www.netlify.com/docs/custom-domains/). You can use their free subdomains ([yoursitename.netlify.com](http://yoursitename.netlify.com/)) or buy your own unique domain name directly within their user interface.
 
- ![custom-domain-name](https://snipcart.com/media/204624/netlify-custom-domain-name-setup.png) 
+![custom-domain-name](https://snipcart.com/media/204624/netlify-custom-domain-name-setup.png)
 
 Last but not least, you’ll want to update your site’s content to make it your own! [Log in to Forestry](https://app.forestry.io/login) to start doing so.
 
- ![jamstack-templates-editing](https://snipcart.com/media/204618/forestry-cms-blog-editing-ui.png) 
+![jamstack-templates-editing](https://snipcart.com/media/204618/forestry-cms-blog-editing-ui.png)
 
 Here’s what mine looked like after fiddling around a bit:
 
@@ -109,12 +108,11 @@ Here’s what mine looked like after fiddling around a bit:
 
 Oh, and JAMstack-ing this blog was definitely worth it!
 
- ![jamstack-performance-comparison](https://snipcart.com/media/204619/jamstack-blog-performance-comparison.png) 
+![jamstack-performance-comparison](https://snipcart.com/media/204619/jamstack-blog-performance-comparison.png)
 
-Nathan’s JAMstack e-commerce template
--------------------------------------
+## Nathan’s JAMstack e-commerce template
 
- ![jekyll-datocms-jamstack-template](https://snipcart.com/media/204631/jekyll-datocms-jamstack-template.png) 
+![jekyll-datocms-jamstack-template](https://snipcart.com/media/204631/jekyll-datocms-jamstack-template.png)
 
 My website is what we would call a “semi-success”—meaning it functions but could be made a lot better if some of the kinks were worked out.
 
@@ -128,7 +126,7 @@ So, here’s how I went about this.
 
 Like Franck, I went ahead and used Stackbit because it seemed like the most approachable way to tackle this project. For my theme, I chose “Fresh” because I was looking for as minimal a concept as possible.
 
- ![jamstack-theme](https://snipcart.com/media/204609/choosing-stackbit-theme.png) 
+![jamstack-theme](https://snipcart.com/media/204609/choosing-stackbit-theme.png)
 
 From there, I went ahead and used Jekyll (for no reason other than my love of Robert Louis Stevenson), DatoCMS, and deployed it on Netlify.
 
@@ -144,11 +142,11 @@ Because my goal was to share music I need to record and host my audio files some
 
 When my audio file was fully uploaded to SoundCloud, I simply extracted the embeddable code to insert into my blog post:
 
- ![soundcloud-embed](https://snipcart.com/media/204616/soundcloud-embeddable-code.png) 
+![soundcloud-embed](https://snipcart.com/media/204616/soundcloud-embeddable-code.png)
 
 Then I moved over to DatoCMS, went to the menu “Post” and modified an existing “stock post” that comes with the theme. The great thing about DatoCMS is that I was able to put the HTML directly into the content block, like so:
 
- ![embed-datocms](https://snipcart.com/media/204612/embedding-music-file-into-datocms.png) 
+![embed-datocms](https://snipcart.com/media/204612/embedding-music-file-into-datocms.png)
 
 And just like that, my audio file was live! I could also add more content underneath including lyrics or descriptions of the song. Then, it was just a matter of “rinse-and-repeat” with all the audio files I wanted to share.
 
@@ -160,17 +158,17 @@ I was fortunate that my colleagues agreed to a rule: we each get 1-hour of devel
 
 My goal was to add Snipcart to the site, so the first thing I did was to sign up for a free [Snipcart account](https://app.snipcart.com/register). This would give me access to my API Key, which I would later need:
 
- ![snipcart-api-key](https://snipcart.com/media/204613/snipcart-api-key.png) 
+![snipcart-api-key](https://snipcart.com/media/204613/snipcart-api-key.png)
 
 I then went to [Snipcart’s v3.0 documentation](https://docs.snipcart.com/v3/setup/installation) to figure out how to integrate into my site. In terms of the code snippets I would need, this was incredibly clear, even for a non-programmer like me:
 
- ![snipcart-code-snippet](https://snipcart.com/media/204610/code-to-install-snipcart.png) 
+![snipcart-code-snippet](https://snipcart.com/media/204610/code-to-install-snipcart.png)
 
 Now the trouble was knowing where to insert this code (this is where Michael came in). Because we’re both new to DatoCMS, it took some time to find the appropriate place, but it was finally easiest to do in the GitHub repo’s `_layouts > base.html` folder.
 
 I inserted Snipcart’s code snippets into my `base.html` file and came out with the following:
 
- ![github-repo](https://snipcart.com/media/204615/snipcart-in-github-repo.png) 
+![github-repo](https://snipcart.com/media/204615/snipcart-in-github-repo.png)
 
 And :fire: ... just like that, Snipcart was up-and-running on my site!
 
@@ -178,7 +176,7 @@ And :fire: ... just like that, Snipcart was up-and-running on my site!
 
 The next (and last) step was to create the appropriate buttons to sell my products. This is where things started to break down. Adding and defining the product buttons was easy. Like I mentioned above, DatoCMS lets you type HTML directly into their content blocks, so it was just a matter of copying/pasting Snipcart’s “Product Definition” code snippet wherever I wanted it:
 
- ![jamstack-buy-button](https://snipcart.com/media/204614/snipcart-buy-button.png) 
+![jamstack-buy-button](https://snipcart.com/media/204614/snipcart-buy-button.png)
 
 _Note: I used Snipcart’s older “Buy Bacon” button because I didn’t have many custom attributes for my product and this was just a more concise code snippet._
 
@@ -208,10 +206,9 @@ Here it is:
 
 > [https://fabulous-elm-83b71.netlify.com/#/](https://fabulous-elm-83b71.netlify.com/#/)
 
-Math’s blog migration from Medium to the JAMstack
--------------------------------------------------
+## Math’s blog migration from Medium to the JAMstack
 
- ![gatsby-netlifycms-jamstack-template](https://snipcart.com/media/204630/gatsby-netlifycms-jamstack-template.png) 
+![gatsby-netlifycms-jamstack-template](https://snipcart.com/media/204630/gatsby-netlifycms-jamstack-template.png)
 
 This small experiment allowed me to go forward with a project that was at the back of my mind for a while now. I’m pretty sure it showcases a use case that many content creators and writers eventually face.
 
@@ -219,9 +216,9 @@ I’m a huge movie buff. A few months ago, I started writing cinema-related arti
 
 But when publishing to Medium, you don’t truly _own_ your content. I decided it was time to make it my own by building a simple movie blog. This project hence presented a few requirements for the tools I would use:
 
-*   **Be built with the JAMstack**—because that’s what this experiment is all about.
-*   **The ability to import Medium content**—I didn’t want to spend hours importing existing blog posts on my new website.
-*   **Long-term maintenance by a coding newbie such as I**—I want to keep this project going beyond the scope of this post without relying on help from devs.
+- **Be built with the JAMstack**—because that’s what this experiment is all about.
+- **The ability to import Medium content**—I didn’t want to spend hours importing existing blog posts on my new website.
+- **Long-term maintenance by a coding newbie such as I**—I want to keep this project going beyond the scope of this post without relying on help from devs.
 
 Well, it should be no surprise to you by now that Stackbit answered all these concerns. Look, at the start, I was full of good intentions into building my JAMstack from scratch. I had [Hugo](https://gohugo.io/) installed and everything, but I quickly realized there were too many notions unknown to me to deliver this in time (without bothering my dev colleagues every 5 minutes).
 
@@ -239,7 +236,7 @@ You’ll then receive an email where you can download your Medium archive under 
 
 Upload that .zip file to this page: [https://www.stackbit.com/medium/](https://www.stackbit.com/medium/). Take a deep breath and hit “Get Started”.
 
- ![medium-import-stackbit](https://snipcart.com/media/204623/medium-import-stackbit.png) 
+![medium-import-stackbit](https://snipcart.com/media/204623/medium-import-stackbit.png)
 
 ### 2\. Building my JAMstack blog
 
@@ -251,7 +248,7 @@ First, the choice of themes here is smaller when you use the Medium import funct
 
 You can still import a custom theme, though.
 
- ![stackbit-jamstack-themes](https://snipcart.com/media/204629/stackbit-themes.png) 
+![stackbit-jamstack-themes](https://snipcart.com/media/204629/stackbit-themes.png)
 
 Then, I decided to go with Gatsby as the static site generator and Netlify CMS as the headless CMS. Why?
 
@@ -267,7 +264,7 @@ As you might expect, the content you imported from Medium probably won’t be fo
 
 You’ll waste less time editing small parts of your posts than copying the whole thing in new posts. Luckily, Netlify CMS text editor is intuitive and makes it easy to put on the last touch on your content.
 
- ![netlify-cms-content-editor](https://snipcart.com/media/204625/netlify-cms-content-editor.png) 
+![netlify-cms-content-editor](https://snipcart.com/media/204625/netlify-cms-content-editor.png)
 
 **Editorial Workflow**
 
@@ -279,7 +276,7 @@ It’s pretty simple:
 
 In your Github repo, find the `config.yml` file
 
- ![editorial-workflow-setup](https://snipcart.com/media/204617/editorial-workflow-setup.png) 
+![editorial-workflow-setup](https://snipcart.com/media/204617/editorial-workflow-setup.png)
 
 At the end of the file, add this line:
 
@@ -289,7 +286,7 @@ Save this, _et le tour est joué!_
 
 Once the changes are ready, you’ll see that a new column “Workflow” has appeared in the header of your CMS dashboard. This new function allows you to set different statuses to blog posts and keep them as drafts:
 
- ![netlify-cms-draft](https://snipcart.com/media/204626/netlify-cms-draft.png) 
+![netlify-cms-draft](https://snipcart.com/media/204626/netlify-cms-draft.png)
 
 That’s it for me! In the near future, I’d like to add comment sections to my posts (probably using [Disqus](https://disqus.com/)) and enable social sharing, but it’ll do the job for now.
 
@@ -297,8 +294,7 @@ Here’s my lovely movie blog:
 
 > [https://www.legarsdesvues.ca/](https://www.legarsdesvues.ca/)
 
-Closing thoughts
-----------------
+## Closing thoughts
 
 Well, that was fun! I think this experiment convinced the three of us of two things:
 
@@ -311,9 +307,8 @@ In the end, our devs are still going to handle the rough parts of new JAMstack p
 
 No delusions on our side, but hey, maybe we can now lend a hand as well!
 
-* * *
+---
 
 _If you liked this post, please, take a second to share it [on Twitter](https://twitter.com/intent/tweet?text=JAMstack%20Templates%3A%20How%20to%20Launch%20Fast,%20CMS-Powered%20Static%20Sites%0A%0Ahttp%3A//bit.ly/2ZS8tt3%0A%23jamstack%20%23webdev). It’d mean a lot!_
-
 
 [Source](https://snipcart.com/blog/jamstack-templates-example)

@@ -76,35 +76,35 @@ We need to start the function and create a variable to hold a COPY of our input 
 [**Array.prototype.slice\(\)**  
  \_The slice\(\) method returns a shallow copy of a portion of an array into a new array object selected from start to end…\_developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 
--   We assign array.slice\(0\) to a variable called result.
--   Slicing our input array simply creates a sliced copy of the data.
--   Remember that by excluding a second argument in our slice parameter allows us to slice from the first argument all the way to the end.
+- We assign array.slice\(0\) to a variable called result.
+- Slicing our input array simply creates a sliced copy of the data.
+- Remember that by excluding a second argument in our slice parameter allows us to slice from the first argument all the way to the end.
 
 **Step 2.**  
 We need to create a for loop to tell our function how many times we want to rotate.
 
--   By setting our second delimiter to i &lt; num we will ask our loops to run num times.
--   Running num times is the same as executing the code block within num times.
+- By setting our second delimiter to i &lt; num we will ask our loops to run num times.
+- Running num times is the same as executing the code block within num times.
 
 **Step 3.**  
 We need to put some executable code within our for loop to be run during every cycle.
 
--   Since we are rotating to the right, every change to our result array under the hood will look like this \(if we ref. our first test case\):
--   `['a', 'b', 'c', 'd', 'e'];` \(how it looks like at the start\)
--   `['e', 'a', 'b', 'c', 'd'];` \(after one run of the for loop\)
--   `['d', 'e', 'a', 'b', 'c'];` \(after second/last run of the for loop\)
--   To accomplish this we first need to ‘`pop`' off or remove our last element.
--   Two things happen when we use this built-in function.
--   Our copied array is mutated to lose it’s last ele.
--   The removed element is stored in the variable we assigned to the function.
--   Our second step is to add it to the start of our array, to do this we can use `unshift`.
--   By inputting the variable we are using to hold our removed element into the parameter of unshift we are adding our element to the front of the array.
+- Since we are rotating to the right, every change to our result array under the hood will look like this \(if we ref. our first test case\):
+- `['a', 'b', 'c', 'd', 'e'];` \(how it looks like at the start\)
+- `['e', 'a', 'b', 'c', 'd'];` \(after one run of the for loop\)
+- `['d', 'e', 'a', 'b', 'c'];` \(after second/last run of the for loop\)
+- To accomplish this we first need to ‘`pop`' off or remove our last element.
+- Two things happen when we use this built-in function.
+- Our copied array is mutated to lose it’s last ele.
+- The removed element is stored in the variable we assigned to the function.
+- Our second step is to add it to the start of our array, to do this we can use `unshift`.
+- By inputting the variable we are using to hold our removed element into the parameter of unshift we are adding our element to the front of the array.
 
 **Step 4.**
 
 Now that our for loop has ended and our copied array looks just like how the answer looks, we need to output the answer.
 
--   We accomplish this by creating a `return` line AFTER the for loop.
+- We accomplish this by creating a `return` line AFTER the for loop.
 
 ## End Result
 

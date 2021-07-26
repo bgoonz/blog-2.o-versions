@@ -22,8 +22,7 @@ Many integrated DXP solutions offer server-side personalization which solves the
 
 Having the personalized content ready as fast as possible from a CDN is where Jamstack technology can help. In the next sections we discuss two Jamstack native personlization services: Outsmartly and Uniform Optimize.
 
-Outsmartly ([https://www.outsmartly.com](https://www.outsmartly.com/))
-----------------------------------------------------------------------
+## Outsmartly ([https://www.outsmartly.com](https://www.outsmartly.com/))
 
 Branded as "Revenue as a service" Outsmartly gives you full flexibility in your personalization needs. Outsmartly offers personalization at the CDN edge for ReactJS components. It basically allows you to replace components with a personalized variant by criteria that you define yourself using Javascript. For example, use the geo-location of an incoming request to decide at the CDN edge what content or component to show.
 
@@ -34,11 +33,10 @@ Measuring the effectiveness of your personalizations is achieved by a back-end i
 By using a CDN edge network Outsmartly not only fulfills your personalization needs but also improves your overall site speed at the same time.
 
 > Outsmartly gives you very flexible personalization options that can be fully controlled (i.e. programmed) by you.
-> 
+>
 > ![Outsmartly](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/_next/image?url=%2Farticles%2Fjamstack-personalization%2Foutsmartly-logo.svg&w=640&q=75 "Outsmartly")
 
-Uniform Optimize ([https://www.uniform.dev](https://www.uniform.dev/))
-----------------------------------------------------------------------
+## Uniform Optimize ([https://www.uniform.dev](https://www.uniform.dev/))
 
 Uniform Optimize offers Jamstack focused personalization with a backend UI that allows you to specify intents.
 
@@ -52,14 +50,13 @@ Uniform integrates with external analytic solutions like Google Analytics. Unifo
 
 By its intent setup Uniform offers a well-defined framework for you personalization needs that integrates with several Headless CMS-es. Besides Uniform has SDKs for various front-end frameworks, amongst whhich are ReactJS and VueJS.
 
-> Uniform offers a nice back-end UI combined with good Headless CMS integration possibilities.  
-> 
+> Uniform offers a nice back-end UI combined with good Headless CMS integration possibilities.
+>
 > ![Uniform](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/_next/image?url=%2Farticles%2Fjamstack-personalization%2Funiform-logo.svg&w=384&q=75 "Uniform")
 
 (\*) CDN edge personalization is available in private preview
 
-What to choose?
----------------
+## What to choose?
 
 There are several aspects of Jamstack personalization services: (1) features, (2) ease of use, (3) flexibility, and (4) performance.
 
@@ -76,6 +73,5 @@ We discussed two Jamstack native services, but there are of course many other pe
 One example of a highly specialized more traditional personalization service is [Frosmo](https://frosmo.com/). Frosmo focuses on e-commerce and has deep domain knowledge and integration possibilities in this area. Frosmo, for example, integrates based on your Google Enhanced Ecommerce analytics, and will therefore be easy to integrate if you already use this. Using Frosmo for personalizations below the page fold, e.g. for showing product recommendations on a product page, is a good option. For above the fold personalizations you will need assess the performance impact for your use-case.
 
 To conclude, the best personalization for your needs depends on your use-case. Do you have any further questions or need further advice? Feel free to contact us by [contact form](https://www.unplatform.io/#contact) or mail: [info@unplatform.io](mailto://info@unplatform.io).
-
 
 [Source](https://unplatform.io/stories/guide-to-jamstack-personalization)

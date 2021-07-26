@@ -19,7 +19,7 @@ If we were in math class, we could say:
 In terms of an actual reducer function, that looks like this:
 
     const contactReducer = (state = initialState, action) => {
-      
+
     }
 
 Where do we get that initial state and action? Those are things we define.
@@ -108,15 +108,15 @@ That means that a typical reducer will look like this:
         }
         case 'UPDATE_CONTACT':
           return {
-            
+
           }
         case 'DELETE_CONTACT':
           return {
-            
+
           }
         case 'EMPTY_CONTACT_LIST':
           return {
-            
+
           }
         default:
           return state
@@ -143,6 +143,5 @@ You can see that I didn’t make use of Redux, but this is very much the same wa
 Want to give it a try? You can extend the reducer function to allow the user to update the age of a contact. I’d like to see what you come up with in the comment section!
 
 Understanding the role that reducers play in Redux should give you a better understanding of what happens underneath the hood. If you are interested in reading more about using reducers in Redux, it’s worth checking out the [official documentation](https://redux.js.org/basics/reducers).
-
 
 [Source](https://css-tricks.com/understanding-how-reducers-are-used-in-redux/)
