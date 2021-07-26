@@ -61,17 +61,17 @@ Here's a few resources to get you started:
 
 <<<<<<< HEAD
 
--   📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
--   📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
--   📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
--   📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
--   # 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
--   📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
--   📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
--   📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
--   📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
--   📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
-    > > > > > > > 2463ce91b0e33baaa31e9d29eef9c2d52887bdf2
+- 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
+- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
+- 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
+- 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
+- # 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
+- 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
+- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
+- 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
+- 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
+- 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
+  > > > > > > > 2463ce91b0e33baaa31e9d29eef9c2d52887bdf2
 
 If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
 
