@@ -1,0 +1,5 @@
+{
+  "expireTime": 9007200882027786000,
+  "key": "transformer-remark-markdown-html-f98e08163e3b99f0812b598a7486c62e--",
+  "val": "<blockquote>\n<p>Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams</p>\n</blockquote>\n<p><button class=\"js-gitter-toggle-chat-button\">Toggle Chat</button>\n<button class=\"js-gitter-toggle-chat-button\" data-gitter-toggle-chat-state=\"true\">Open Chat</button>\n<button class=\"js-gitter-toggle-chat-button\" data-gitter-toggle-chat-state=\"false\">Close Chat</button></p>\n  <script>\n    ((window.gitter = {}).chat = {}).options = {\n      room: 'gitterHQ/sidecar-demo',\n      activationElement: false\n    };\n  </script>\n  <script src=\"../../dist/sidecar.js\" async defer></script>"
+}

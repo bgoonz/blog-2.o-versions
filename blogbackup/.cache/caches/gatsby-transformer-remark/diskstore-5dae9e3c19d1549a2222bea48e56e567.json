@@ -1,0 +1,178 @@
+{
+  "expireTime": 9007200882027550000,
+  "key": "transformer-remark-markdown-ast-39d579b942140e9733381a53be72024d--",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "blockquote",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "value": "Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams",
+                "position": {
+                  "start": { "line": 3, "column": 2, "offset": 3 },
+                  "end": { "line": 3, "column": 103, "offset": 104 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 2, "offset": 3 },
+              "end": { "line": 3, "column": 103, "offset": 104 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 3, "column": 1, "offset": 2 },
+          "end": { "line": 3, "column": 103, "offset": 104 },
+          "indent": []
+        }
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "  ",
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 107 },
+              "end": { "line": 6, "column": 3, "offset": 109 },
+              "indent": []
+            }
+          },
+          {
+            "type": "html",
+            "value": "<button class=\"js-gitter-toggle-chat-button\">",
+            "position": {
+              "start": { "line": 6, "column": 3, "offset": 109 },
+              "end": { "line": 6, "column": 48, "offset": 154 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Toggle Chat",
+            "position": {
+              "start": { "line": 6, "column": 48, "offset": 154 },
+              "end": { "line": 6, "column": 59, "offset": 165 },
+              "indent": []
+            }
+          },
+          {
+            "type": "html",
+            "value": "</button>",
+            "position": {
+              "start": { "line": 6, "column": 59, "offset": 165 },
+              "end": { "line": 6, "column": 68, "offset": 174 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n  ",
+            "position": {
+              "start": { "line": 6, "column": 68, "offset": 174 },
+              "end": { "line": 7, "column": 3, "offset": 177 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "html",
+            "value": "<button class=\"js-gitter-toggle-chat-button\" data-gitter-toggle-chat-state=\"true\">",
+            "position": {
+              "start": { "line": 7, "column": 3, "offset": 177 },
+              "end": { "line": 7, "column": 85, "offset": 259 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Open Chat",
+            "position": {
+              "start": { "line": 7, "column": 85, "offset": 259 },
+              "end": { "line": 7, "column": 94, "offset": 268 },
+              "indent": []
+            }
+          },
+          {
+            "type": "html",
+            "value": "</button>",
+            "position": {
+              "start": { "line": 7, "column": 94, "offset": 268 },
+              "end": { "line": 7, "column": 103, "offset": 277 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "\n  ",
+            "position": {
+              "start": { "line": 7, "column": 103, "offset": 277 },
+              "end": { "line": 8, "column": 3, "offset": 280 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "html",
+            "value": "<button class=\"js-gitter-toggle-chat-button\" data-gitter-toggle-chat-state=\"false\">",
+            "position": {
+              "start": { "line": 8, "column": 3, "offset": 280 },
+              "end": { "line": 8, "column": 86, "offset": 363 },
+              "indent": []
+            }
+          },
+          {
+            "type": "text",
+            "value": "Close Chat",
+            "position": {
+              "start": { "line": 8, "column": 86, "offset": 363 },
+              "end": { "line": 8, "column": 96, "offset": 373 },
+              "indent": []
+            }
+          },
+          {
+            "type": "html",
+            "value": "</button>",
+            "position": {
+              "start": { "line": 8, "column": 96, "offset": 373 },
+              "end": { "line": 8, "column": 105, "offset": 382 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 6, "column": 1, "offset": 107 },
+          "end": { "line": 8, "column": 105, "offset": 382 },
+          "indent": [1, 1]
+        }
+      },
+      {
+        "type": "html",
+        "value": "  <script>\n    ((window.gitter = {}).chat = {}).options = {\n      room: 'gitterHQ/sidecar-demo',\n      activationElement: false\n    };\n  </script>",
+        "position": {
+          "start": { "line": 9, "column": 1, "offset": 383 },
+          "end": { "line": 14, "column": 12, "offset": 529 },
+          "indent": [1, 1, 1, 1, 1]
+        }
+      },
+      {
+        "type": "html",
+        "value": "  <script src=\"../../dist/sidecar.js\" async defer></script>",
+        "position": {
+          "start": { "line": 15, "column": 1, "offset": 530 },
+          "end": { "line": 15, "column": 60, "offset": 589 },
+          "indent": []
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 16, "column": 1, "offset": 590 }
+    }
+  }
+}

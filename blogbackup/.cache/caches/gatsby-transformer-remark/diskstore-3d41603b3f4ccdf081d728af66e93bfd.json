@@ -1,0 +1,1266 @@
+{
+  "expireTime": 9007200882027550000,
+  "key": "transformer-remark-markdown-html-ast-ff8261bafe197fddae1763371b596b11--",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "➤ ",
+            "position": {
+              "start": { "line": 1, "column": 1, "offset": 0 },
+              "end": { "line": 1, "column": 3, "offset": 2 }
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 1, "column": 3, "offset": 2 },
+              "end": { "line": 1, "column": 5, "offset": 4 }
+            }
+          },
+          {
+            "type": "text",
+            "value": "Email                          ",
+            "position": {
+              "start": { "line": 1, "column": 5, "offset": 4 },
+              "end": { "line": 1, "column": 36, "offset": 35 }
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 1, "column": 36, "offset": 35 },
+              "end": { "line": 1, "column": 38, "offset": 37 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 1, "column": 1, "offset": 0 },
+          "end": { "line": 1, "column": 38, "offset": 37 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "h2",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "\n",
+            "position": {
+              "start": { "line": 3, "column": 4, "offset": 42 },
+              "end": { "line": 3, "column": 9, "offset": 47 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": {
+              "href": "https://github.com/bgoonz#bryangunergmailcom"
+            },
+            "children": [],
+            "position": {
+              "start": { "line": 3, "column": 9, "offset": 47 },
+              "end": { "line": 3, "column": 57, "offset": 95 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://github.com/bgoonz#" },
+            "children": [
+              {
+                "type": "text",
+                "value": "bryan.guner@gmail.com",
+                "position": {
+                  "start": { "line": 3, "column": 58, "offset": 96 },
+                  "end": { "line": 3, "column": 79, "offset": 117 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 57, "offset": 95 },
+              "end": { "line": 3, "column": 108, "offset": 146 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 3, "column": 1, "offset": 39 },
+          "end": { "line": 3, "column": 108, "offset": 146 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://github.com/bgoonz#_phone_" },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 5, "column": 2, "offset": 149 },
+                  "end": { "line": 5, "column": 89, "offset": 236 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 148 },
+              "end": { "line": 5, "column": 127, "offset": 274 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 5, "column": 1, "offset": 148 },
+          "end": { "line": 5, "column": 127, "offset": 274 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "h2",
+        "properties": {},
+        "children": [
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://github.com/bgoonz#-phone" },
+            "children": [],
+            "position": {
+              "start": { "line": 7, "column": 4, "offset": 279 },
+              "end": { "line": 7, "column": 40, "offset": 315 }
+            }
+          },
+          {
+            "type": "text",
+            "value": "➤ ",
+            "position": {
+              "start": { "line": 7, "column": 40, "offset": 315 },
+              "end": { "line": 7, "column": 42, "offset": 317 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "em",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Phone",
+                "position": {
+                  "start": { "line": 7, "column": 43, "offset": 318 },
+                  "end": { "line": 7, "column": 48, "offset": 323 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 7, "column": 42, "offset": 317 },
+              "end": { "line": 7, "column": 49, "offset": 324 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 7, "column": 1, "offset": 276 },
+          "end": { "line": 7, "column": 49, "offset": 324 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 1, "offset": 326 },
+              "end": { "line": 9, "column": 3, "offset": 328 }
+            }
+          },
+          {
+            "type": "text",
+            "value": "*",
+            "position": {
+              "start": { "line": 9, "column": 3, "offset": 328 },
+              "end": { "line": 9, "column": 5, "offset": 330 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 9, "column": 1, "offset": 326 },
+          "end": { "line": 9, "column": 5, "offset": 330 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "h4",
+        "properties": {},
+        "children": [
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://github.com/bgoonz#551-254-5505" },
+            "children": [],
+            "position": {
+              "start": { "line": 11, "column": 6, "offset": 337 },
+              "end": { "line": 11, "column": 48, "offset": 379 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": {
+              "href": "https://github.com/bgoonz/bgoonz/blob/master/551-254-5505"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "551-254-5505",
+                "position": {
+                  "start": { "line": 11, "column": 49, "offset": 380 },
+                  "end": { "line": 11, "column": 61, "offset": 392 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 11, "column": 48, "offset": 379 },
+              "end": { "line": 11, "column": 121, "offset": 452 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 11, "column": 1, "offset": 332 },
+          "end": { "line": 11, "column": 121, "offset": 452 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "h2",
+        "properties": {},
+        "children": [
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": {
+              "href": "https://github.com/bgoonz#-connect-with-me"
+            },
+            "children": [],
+            "position": {
+              "start": { "line": 13, "column": 4, "offset": 457 },
+              "end": { "line": 13, "column": 50, "offset": 503 }
+            }
+          },
+          {
+            "type": "text",
+            "value": "➤ Connect with me:",
+            "position": {
+              "start": { "line": 13, "column": 50, "offset": 503 },
+              "end": { "line": 13, "column": 68, "offset": 521 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 13, "column": 1, "offset": 454 },
+          "end": { "line": 13, "column": 68, "offset": 521 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "mailto:bryan.guner@gmail.com" },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/987e9d7d7e70f98c5cd1d613add6ef56bcab60a8eda9e3df9f4f505b611ff773/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f676d61696c2e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 2, "offset": 524 },
+                  "end": { "line": 15, "column": 203, "offset": 725 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 1, "offset": 523 },
+              "end": { "line": 15, "column": 234, "offset": 756 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://www.facebook.com/bryan.guner/" },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/6acccefe72a9ad3380c0802e7a78988adad9d186eefff43b715bd7d7d07dc52a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f66616365626f6f6b2e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 235, "offset": 757 },
+                  "end": { "line": 15, "column": 442, "offset": 964 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 234, "offset": 756 },
+              "end": { "line": 15, "column": 482, "offset": 1004 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://twitter.com/bgooonz" },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/a6a76173a04df8b3239debac70858c0d8bebd8d882b6572a0419cff3f51a2fc3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f747769747465722d737175617265642e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 483, "offset": 1005 },
+                  "end": { "line": 15, "column": 704, "offset": 1226 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 482, "offset": 1004 },
+              "end": { "line": 15, "column": 734, "offset": 1256 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": {
+              "href": "https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/videos"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/aec347ccecfb57c504334b6723d26a419c1e7a871d467603d0a301272d5ac329/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f796f75747562652e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 735, "offset": 1257 },
+                  "end": { "line": 15, "column": 940, "offset": 1462 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 734, "offset": 1256 },
+              "end": { "line": 15, "column": 1006, "offset": 1528 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": { "href": "https://www.instagram.com/bgoonz/?hl=en" },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/13b4ab64e1a639ef039c1688b03c7a1a0aaa875a1858fa56888aa09c492aac6a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f696e7374616772616d2d6e65772e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 1007, "offset": 1529 },
+                  "end": { "line": 15, "column": 1224, "offset": 1746 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 1006, "offset": 1528 },
+              "end": { "line": 15, "column": 1266, "offset": 1788 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": {
+              "href": "https://www.pinterest.com/bryanguner/_saved/"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/4d14fb643e9f849728e8157811f502e1f146b7a2766a4c0a90e22afe106c0fbd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f70696e7465726573742d2d76312e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 1267, "offset": 1789 },
+                  "end": { "line": 15, "column": 1484, "offset": 2006 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 1266, "offset": 1788 },
+              "end": { "line": 15, "column": 1532, "offset": 2054 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "a",
+            "properties": {
+              "href": "https://www.linkedin.com/in/bryan-guner-046199128/"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagName": "img",
+                "properties": {
+                  "src": "https://camo.githubusercontent.com/4f660401d8469647f004f5740254c81a657f48d4c55a635be05ffb196c2be320/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6c696e6b6564696e2e706e67",
+                  "alt": null
+                },
+                "children": [],
+                "position": {
+                  "start": { "line": 15, "column": 1533, "offset": 2055 },
+                  "end": { "line": 15, "column": 1740, "offset": 2262 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 1532, "offset": 2054 },
+              "end": { "line": 15, "column": 1793, "offset": 2315 }
+            }
+          },
+          {
+            "type": "text",
+            "value": " ",
+            "position": {
+              "start": { "line": 15, "column": 1793, "offset": 2315 },
+              "end": { "line": 15, "column": 1794, "offset": 2316 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 15, "column": 1, "offset": 523 },
+          "end": { "line": 15, "column": 1794, "offset": 2316 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://github.com/bgoonz" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "GitHub",
+                    "position": {
+                      "start": { "line": 17, "column": 6, "offset": 2323 },
+                      "end": { "line": 17, "column": 12, "offset": 2329 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 17, "column": 5, "offset": 2322 },
+                  "end": { "line": 17, "column": 40, "offset": 2357 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 17, "column": 1, "offset": 2318 },
+              "end": { "line": 18, "column": 1, "offset": 2358 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://gitlab.com/bryan.guner.dev" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Gitlab",
+                    "position": {
+                      "start": { "line": 19, "column": 6, "offset": 2364 },
+                      "end": { "line": 19, "column": 12, "offset": 2370 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 19, "column": 5, "offset": 2363 },
+                  "end": { "line": 19, "column": 49, "offset": 2407 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 19, "column": 1, "offset": 2359 },
+              "end": { "line": 20, "column": 1, "offset": 2408 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://bitbucket.org/bgoonz/" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Bitbucket",
+                    "position": {
+                      "start": { "line": 21, "column": 6, "offset": 2414 },
+                      "end": { "line": 21, "column": 15, "offset": 2423 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 21, "column": 5, "offset": 2413 },
+                  "end": { "line": 21, "column": 47, "offset": 2455 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 21, "column": 1, "offset": 2409 },
+              "end": { "line": 22, "column": 1, "offset": 2456 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://codepen.io/bgoonz" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "code pen",
+                    "position": {
+                      "start": { "line": 23, "column": 6, "offset": 2462 },
+                      "end": { "line": 23, "column": 14, "offset": 2470 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 23, "column": 5, "offset": 2461 },
+                  "end": { "line": 23, "column": 42, "offset": 2498 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 23, "column": 1, "offset": 2457 },
+              "end": { "line": 24, "column": 1, "offset": 2499 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://glitch.com/@bgoonz" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Glitch",
+                    "position": {
+                      "start": { "line": 25, "column": 6, "offset": 2505 },
+                      "end": { "line": 25, "column": 12, "offset": 2511 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 25, "column": 5, "offset": 2504 },
+                  "end": { "line": 25, "column": 41, "offset": 2540 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 25, "column": 1, "offset": 2500 },
+              "end": { "line": 26, "column": 1, "offset": 2541 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://repl.it/@bgoonz/" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Replit",
+                    "position": {
+                      "start": { "line": 27, "column": 6, "offset": 2547 },
+                      "end": { "line": 27, "column": 12, "offset": 2553 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 27, "column": 5, "offset": 2546 },
+                  "end": { "line": 27, "column": 39, "offset": 2580 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 27, "column": 1, "offset": 2542 },
+              "end": { "line": 28, "column": 1, "offset": 2581 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://www.reddit.com/user/bgoonz1" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Redit",
+                    "position": {
+                      "start": { "line": 29, "column": 6, "offset": 2587 },
+                      "end": { "line": 29, "column": 11, "offset": 2592 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 29, "column": 5, "offset": 2586 },
+                  "end": { "line": 29, "column": 49, "offset": 2630 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 29, "column": 1, "offset": 2582 },
+              "end": { "line": 30, "column": 1, "offset": 2631 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://runkit.com/bgoonz" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "runkit",
+                    "position": {
+                      "start": { "line": 31, "column": 6, "offset": 2637 },
+                      "end": { "line": 31, "column": 12, "offset": 2643 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 31, "column": 5, "offset": 2636 },
+                  "end": { "line": 31, "column": 40, "offset": 2671 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 31, "column": 1, "offset": 2632 },
+              "end": { "line": 32, "column": 1, "offset": 2672 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://meta.stackexchange.com/users/936785/bryan-guner"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "stack-exchange",
+                    "position": {
+                      "start": { "line": 33, "column": 6, "offset": 2678 },
+                      "end": { "line": 33, "column": 20, "offset": 2692 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 33, "column": 5, "offset": 2677 },
+                  "end": { "line": 33, "column": 78, "offset": 2750 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 33, "column": 1, "offset": 2673 },
+              "end": { "line": 34, "column": 1, "offset": 2751 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://app.netlify.com/user/settings#profile"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Netlify",
+                    "position": {
+                      "start": { "line": 35, "column": 6, "offset": 2757 },
+                      "end": { "line": 35, "column": 13, "offset": 2764 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 35, "column": 5, "offset": 2756 },
+                  "end": { "line": 35, "column": 61, "offset": 2812 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 35, "column": 1, "offset": 2752 },
+              "end": { "line": 36, "column": 1, "offset": 2813 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://bryanguner.medium.com/" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Medium",
+                    "position": {
+                      "start": { "line": 37, "column": 6, "offset": 2819 },
+                      "end": { "line": 37, "column": 12, "offset": 2825 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 37, "column": 5, "offset": 2818 },
+                  "end": { "line": 37, "column": 45, "offset": 2858 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 37, "column": 1, "offset": 2814 },
+              "end": { "line": 38, "column": 1, "offset": 2859 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://webcomponents.dev/user/bgoonz"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "webcomponents.dev",
+                    "position": {
+                      "start": { "line": 39, "column": 6, "offset": 2865 },
+                      "end": { "line": 39, "column": 23, "offset": 2882 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 39, "column": 5, "offset": 2864 },
+                  "end": { "line": 39, "column": 63, "offset": 2922 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 39, "column": 1, "offset": 2860 },
+              "end": { "line": 40, "column": 1, "offset": 2923 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://www.npmjs.com/~bgoonz11" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "npm",
+                    "position": {
+                      "start": { "line": 41, "column": 6, "offset": 2929 },
+                      "end": { "line": 41, "column": 9, "offset": 2932 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 41, "column": 5, "offset": 2928 },
+                  "end": { "line": 41, "column": 43, "offset": 2966 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 41, "column": 1, "offset": 2924 },
+              "end": { "line": 42, "column": 1, "offset": 2967 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Upwork",
+                    "position": {
+                      "start": { "line": 43, "column": 6, "offset": 2973 },
+                      "end": { "line": 43, "column": 12, "offset": 2979 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 43, "column": 5, "offset": 2972 },
+                  "end": { "line": 43, "column": 103, "offset": 3070 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 43, "column": 1, "offset": 2968 },
+              "end": { "line": 44, "column": 1, "offset": 3071 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://angel.co/u/bryan-guner" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "AngelList",
+                    "position": {
+                      "start": { "line": 45, "column": 6, "offset": 3077 },
+                      "end": { "line": 45, "column": 15, "offset": 3086 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 45, "column": 5, "offset": 3076 },
+                  "end": { "line": 45, "column": 48, "offset": 3119 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 45, "column": 1, "offset": 3072 },
+              "end": { "line": 46, "column": 1, "offset": 3120 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Quora",
+                    "position": {
+                      "start": { "line": 47, "column": 6, "offset": 3126 },
+                      "end": { "line": 47, "column": 11, "offset": 3131 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 47, "column": 5, "offset": 3125 },
+                  "end": { "line": 47, "column": 88, "offset": 3208 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 47, "column": 1, "offset": 3121 },
+              "end": { "line": 48, "column": 1, "offset": 3209 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://dev.to/bgoonz" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "dev.to",
+                    "position": {
+                      "start": { "line": 49, "column": 6, "offset": 3215 },
+                      "end": { "line": 49, "column": 12, "offset": 3221 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 49, "column": 5, "offset": 3214 },
+                  "end": { "line": 49, "column": 36, "offset": 3245 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 49, "column": 1, "offset": 3210 },
+              "end": { "line": 50, "column": 1, "offset": 3246 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://observablehq.com/@bgoonz?tab=profile"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Observable Notebooks",
+                    "position": {
+                      "start": { "line": 51, "column": 6, "offset": 3252 },
+                      "end": { "line": 51, "column": 26, "offset": 3272 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 51, "column": 5, "offset": 3251 },
+                  "end": { "line": 51, "column": 73, "offset": 3319 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 51, "column": 1, "offset": 3247 },
+              "end": { "line": 52, "column": 1, "offset": 3320 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Notation",
+                    "position": {
+                      "start": { "line": 53, "column": 6, "offset": 3326 },
+                      "end": { "line": 53, "column": 14, "offset": 3334 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 53, "column": 5, "offset": 3325 },
+                  "end": { "line": 53, "column": 87, "offset": 3407 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 53, "column": 1, "offset": 3321 },
+              "end": { "line": 54, "column": 1, "offset": 3408 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "https://stackshare.io/bryanguner" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "StackShare",
+                    "position": {
+                      "start": { "line": 55, "column": 6, "offset": 3414 },
+                      "end": { "line": 55, "column": 16, "offset": 3424 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 55, "column": 5, "offset": 3413 },
+                  "end": { "line": 55, "column": 51, "offset": 3459 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 55, "column": 1, "offset": 3409 },
+              "end": { "line": 56, "column": 1, "offset": 3460 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": { "href": "http://plnkr.co/account/plunks" },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Plunk",
+                    "position": {
+                      "start": { "line": 57, "column": 6, "offset": 3466 },
+                      "end": { "line": 57, "column": 11, "offset": 3471 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 57, "column": 5, "offset": 3465 },
+                  "end": { "line": 57, "column": 44, "offset": 3504 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 57, "column": 1, "offset": 3461 },
+              "end": { "line": 58, "column": 1, "offset": 3505 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://dribbble.com/bgoonz4242?onboarding=true"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Dribble",
+                    "position": {
+                      "start": { "line": 59, "column": 6, "offset": 3511 },
+                      "end": { "line": 59, "column": 13, "offset": 3518 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 59, "column": 5, "offset": 3510 },
+                  "end": { "line": 59, "column": 63, "offset": 3568 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 59, "column": 1, "offset": 3506 },
+              "end": { "line": 60, "column": 1, "offset": 3569 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "contentful",
+                    "position": {
+                      "start": { "line": 61, "column": 6, "offset": 3575 },
+                      "end": { "line": 61, "column": 16, "offset": 3585 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 61, "column": 5, "offset": 3574 },
+                  "end": { "line": 61, "column": 92, "offset": 3661 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 61, "column": 1, "offset": 3570 },
+              "end": { "line": 62, "column": 1, "offset": 3662 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "element",
+                "tagName": "a",
+                "properties": {
+                  "href": "https://giphy.com/channel/bryanguner"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "giphy",
+                    "position": {
+                      "start": { "line": 63, "column": 6, "offset": 3668 },
+                      "end": { "line": 63, "column": 11, "offset": 3673 }
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 63, "column": 5, "offset": 3667 },
+                  "end": { "line": 63, "column": 50, "offset": 3712 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 63, "column": 1, "offset": 3663 },
+              "end": { "line": 63, "column": 50, "offset": 3712 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 17, "column": 1, "offset": 2318 },
+          "end": { "line": 63, "column": 50, "offset": 3712 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 67, "column": 1, "offset": 3716 }
+    }
+  }
+}

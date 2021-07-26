@@ -1,0 +1,132 @@
+{
+  "expireTime": 9007200882027790000,
+  "key": "transformer-remark-markdown-html-ast-d2ec7d74578c47abd7bc41409001043f--",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "h2",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Lorem ipsum",
+            "position": {
+              "start": { "line": 2, "column": 4, "offset": 4 },
+              "end": { "line": 2, "column": 15, "offset": 15 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 2, "column": 15, "offset": 15 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Lorem ipsum dolor sit amet, ",
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 17 },
+              "end": { "line": 4, "column": 29, "offset": 45 }
+            }
+          },
+          {
+            "type": "element",
+            "tagName": "strong",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "consectetur adipiscing elit",
+                "position": {
+                  "start": { "line": 4, "column": 31, "offset": 47 },
+                  "end": { "line": 4, "column": 58, "offset": 74 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 29, "offset": 45 },
+              "end": { "line": 4, "column": 60, "offset": 76 }
+            }
+          },
+          {
+            "type": "text",
+            "value": ", sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "position": {
+              "start": { "line": 4, "column": 60, "offset": 76 },
+              "end": { "line": 4, "column": 128, "offset": 144 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 4, "column": 1, "offset": 17 },
+          "end": { "line": 4, "column": 128, "offset": 144 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Lorem ipsum",
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 148 },
+                  "end": { "line": 6, "column": 14, "offset": 159 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 146 },
+              "end": { "line": 6, "column": 14, "offset": 159 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "dolor sit amet",
+                "position": {
+                  "start": { "line": 7, "column": 3, "offset": 162 },
+                  "end": { "line": 7, "column": 17, "offset": 176 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 7, "column": 1, "offset": 160 },
+              "end": { "line": 7, "column": 17, "offset": 176 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 6, "column": 1, "offset": 146 },
+          "end": { "line": 7, "column": 17, "offset": 176 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 8, "column": 1, "offset": 177 }
+    }
+  }
+}
