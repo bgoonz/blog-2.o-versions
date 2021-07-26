@@ -1,0 +1,33 @@
+{
+  "name": "blogv2sanity",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Bryan C Guner <bryan.guner@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "2.12.2",
+    "@sanity/components": "2.2.6",
+    "@sanity/core": "2.12.2",
+    "@sanity/default-layout": "2.12.2",
+    "@sanity/default-login": "2.11.1",
+    "@sanity/desk-tool": "2.12.2",
+    "@sanity/vision": "2.11.2",
+    "prop-types": "15.7.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgoonz/BlogV2.0Exp.git"
+  }
+}

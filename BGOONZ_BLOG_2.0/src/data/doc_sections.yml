@@ -1,0 +1,11 @@
+root_docs_path: /docs
+sections:
+    - about
+    - faq
+    - interact
+    - links
+    - quick-reference
+    - react
+    - tools
+    - experimental
+    - articles
