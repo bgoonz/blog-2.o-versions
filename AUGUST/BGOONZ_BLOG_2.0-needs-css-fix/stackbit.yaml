@@ -1,0 +1,81 @@
+stackbitVersion: 0.4.0
+ssgName: gatsby
+ssgVersion: 2.3.30
+nodeVersion: 14.5.0
+buildCommand: npm run build
+publishDir: public
+staticDir: static
+uploadDir: images
+dataDir: src/data
+pagesDir: src/pages
+pageLayoutKey: template
+logicFields:
+    - doc_sections.root_docs_path
+    - doc_sections.sections
+    - docs.weight
+models:
+    config:
+        type: config
+        label: Site Configuration
+        fields:
+            - type: string
+              name: title
+              label: Title
+              description: Site title
+              required: true
+            - type: string
+              name: domain
+              label: Domain
+              description: >-
+                  The domain of your site, including the protocol, e.g.
+                  https://mysite.com/
+            - type: image
+              name: favicon
+              label: Favicon
+              description: A square icon that represents your website
+            - type: enum
+              name: palette
+              label: Color Palette
+              description: The color palette of the site
+              options:
+                  - blue
+                  - green
+                  - navy
+                  - violet
+              default: blue
+              required: true
+            - type: model
+              name: header
+              label: Header Configuration
+              models:
+                  - header
+            - type: model
+              name: footer
+              label: Footer Configuration
+              models:
+                  - footer
+    header:
+        type: object
+        label: Header Configuration
+        labelField: title
+        fields:
+            - type: string
+              name: title
+              label: Header Title
+              description: The title displayed in the header if no logo image added
+            - type: image
+              name: logo_img
+              label: Logo
+              description: The logo image displayed in the header
+            - type: string
+              name: logo_img_alt
+              label: Logo Alt Text
+              description: The alt text of the logo image
+            - type: string
+              name: url
+              label: Header Title (Logo) URL
+              description: >-
+                  The URL of the header title (logo). Useful if you want the header
+                  title (logo) link to another URL, rather than the home page.
+            - type: boolean
+              name: relativeUrl
